@@ -1,0 +1,21 @@
+.. Brant documentation master file, created by
+   sphinx-quickstart on Fri May 26 16:27:58 2017.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+SPON
+===================================
+
+.. toctree::
+   :maxdepth: 2
+
+   SPON_AM
+
+   SPON_ALFF_FALFF
+
+   SPON_ReHo
+
+   SPON_FCD
+
+
+ 

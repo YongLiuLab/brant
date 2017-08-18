@@ -1,0 +1,41 @@
+STEP 2: Preprocessing
+------------------------------------
+  
+* **Input Directories for Preprocessing**:
+    Click the *Preprocessing* button. Select the folders as data dirs where `STEP 1`_ outputs. You can check the *from text file* and select a *brant_preprocess_paths.txt* file which has already automatically created.
+
+* **Preprocessing Settings**:
+    Check the checkboxes you need, remember to modify parameters. You donnot need to check the *Coregister* checkbox without structural images. Remember to change the *source* parameter in Normalise to *co\*.nii* if you're preprocessing images with structural images.
+
+.. note::
+
+    If an error occours during preprocessing, the *R* (refresh) button can recover the *run* button.
+	
+* Further information about preprocessing can be found in:
+
+.. toctree::
+   :maxdepth: 2
+
+   slice_timing
+   
+   realign
+   
+   coregister
+   
+   normalise_spm12
+   
+   normalise
+   
+   denoise
+   
+   smooth
+ 
+* Further information about output files can be found in the `Filename`_ part.
+
+.. _`STEP 1`: example_1.html
+.. _`Filename`: filename.html  
+	
+.. figure:: _images/step2_preprocessing.png
+   :align: center
+   
+   fig.1 Preprocessing

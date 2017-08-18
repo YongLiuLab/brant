@@ -1,0 +1,41 @@
+STEP 3: Visual Check and Head Motion Estimation
+----------------------------------------------------------------
+
+* **Input Directories for Visual Check**:
+    Click the *Utilities* button, then *Visual Check*. Select the folders as input directories where `STEP 2`_ outputs.
+
+* **Visual Check**:
+    Check the output. Arrow keys can switch the images among different timepoints or subjects during Visual Check. The images will be saved automatically.
+ 
+* **Head Motion Estimation**:
+    Click the *Utilities* button, then *Head Motion Est*. Select the folders as input directories where `STEP 2`_ outputs. The results will be saved as *brant_headmotion_result.csv* and *brant_headmotion_exclusions.txt* automatically.
+
+.. figure:: _images/step3_check.png
+   :align: right
+   
+   fig.1 Utilities => Visual Check
+  	
+.. figure:: _images/step3_check_output1_2.png
+   :align: center
+   :width: 506
+   :height: 401
+   :scale: 75%
+   
+   fig.2 Visual Check Output
+
+.. _`STEP 2`: example_2.html
+   
+.. figure:: _images/step3_check_2.png
+   :align: center
+    
+   fig.3 Utilities => Head Motion Estimation
+   
+.. figure:: _images/step3_check_output2.png
+   :align: center
+   
+   fig.4 brant_headmotion_result.csv
+   
+.. figure:: _images/step3_check_output3.png
+   :align: center
+   
+   fig.5 brant_headmotion_exclusions.txt

@@ -1,0 +1,39 @@
+Slice Timing
+-------------
+    
+* **slice order**: the order of scans in one volume, seperated by comma or space.
+* **TR(s)**: repetition time, cannot be 0.
+* **reference slice**: normally be the number of scan in the middle of the order.(when dealing with task-fMRI, note that selecting the middle timepoint as reference will change the timing of task TR)
+* **prefix**: output prefix.
+
+.. image:: _images/slicetiming.png
+   :align: right
+
+    
+e.g::
+
+    slice order: 1:2:33,2:2:32
+    TR: 2
+    reference slice: 33
+
+
+- `Preprocess Modules`_
+    - `Slice Timing`_
+    - `Realign`_
+    - `Coregister (optional)`_
+    - `Normalize`_
+
+        - `SPM8`_
+        - `SPM12`_
+    - `Denoise`_
+    - `Smooth`_
+
+.. _`Preprocess Modules`: Preprocess_modules.html
+.. _`Slice Timing`: slice_timing.html
+.. _`Realign`: realign.html
+.. _`Coregister (optional)`: coregister.html
+.. _`Normalize`: normalise_spm12.html
+.. _`SPM12`: normalise_spm12.html
+.. _`SPM8`: normalise.html
+.. _`Denoise`: denoise.html
+.. _`Smooth`: smooth.html

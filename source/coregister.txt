@@ -1,0 +1,55 @@
+Coregister
+--------------------
+
+    
+* **Subject info**:
+    * **reference**: Filetype of reference image stored in each subject's folder to register.
+    * **source**: Filetype of image to match the reference image stored in each subject's folder.
+    * **seg & bet**: Segment and skull stripe structural T1/T2 image. Using skull striped T1/T2 image for coregistration is recommended.
+
+        * **options**:
+            1: segment using new segment and bet based on tissue probability maps;
+
+            2: bet only (there should be segmented *c1-c3\*.nii* files in the directory);
+
+            other number: do not segment nor bet; we recommend using *co\*.nii* instead of *bet\*.nii* to normalise.
+
+.. image:: _images/coregister.png
+   :align: right
+
+ 
+* **Estimate**: 
+    * **object fun**: Methods to maximise or minimise objective function.
+    * **sep**: The average distance between sampled points (in mm).
+    * **tol**: The accuacy for each paramters.
+    * **fwhm**: Kernel of gaussian smooth to apply to the 256*256 joint histogram.
+
+
+
+* **Reference**: `spm manual`_.
+
+
+.. _`spm manual`: http://www.fil.ion.ucl.ac.uk/spm/doc/manual.pdf
+
+
+
+- `Preprocess Modules`_
+    - `Slice Timing`_
+    - `Realign`_
+    - `Coregister (optional)`_
+    - `Normalize`_
+
+        - `SPM8`_
+        - `SPM12`_
+    - `Denoise`_
+    - `Smooth`_
+
+.. _`Preprocess Modules`: Preprocess_modules.html
+.. _`Slice Timing`: slice_timing.html
+.. _`Realign`: realign.html
+.. _`Coregister (optional)`: coregister.html
+.. _`Normalize`: normalise_spm12.html
+.. _`SPM12`: normalise_spm12.html
+.. _`SPM8`: normalise.html
+.. _`Denoise`: denoise.html
+.. _`Smooth`: smooth.html

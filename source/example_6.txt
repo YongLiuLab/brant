@@ -1,0 +1,20 @@
+STEP 6: Statistics for Differences among Groups
+---------------------------------------------------
+  
+* **Input Directories of T-Tests**:
+    Click the *STAT* button, then *T-Tests*. Open the directories selection GUI and find the folder where *ROI Calculation* in `STEP 4`_ outputs, then select the *roi2roi_z_pearson_correlation* folder as input directories. Remove strings from search results parsed by id index by typing the strings into the *string removal*.
+	
+* **Group Table**:
+    Create a *\*.csv* file, input filenames without extensions, group strings, covariates as *fig 2*. Select this file for *table*. If your table file contains other information such as age or sex, you can input those titles in the *regressors*.
+	
+.. figure:: _images/step6_T_Tests.png
+   :align: center
+   
+   fig.1 STAT => T-Tests
+   
+.. figure:: _images/step6_T_Tests_Table.png
+   :align: center
+   
+   fig.2 Tabel input
+   
+.. _`STEP 4`: example_4.html

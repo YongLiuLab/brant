@@ -1,0 +1,19 @@
+ROI coordinates
+-------------------------
+    
+.. image:: _images/roi_coordinates.png
+   :align: right
+   
+**The current function extracts coordinates for each cluster and output to a table.**
+    
+* **input type**: seperated binary clusters or labeled clusters
+* **mask***: optional. mask to do AND operation with.
+* **cluster size**: threshold of cluster size.
+* **roi file**: input ROI file   
+* **out dir**: output directory for saving results.
+    
+- **Buttons**:
+    - **S**: Save parameters of the current panel to a *\*.mat* file. The *\*.mat* can be further loaded for the panel or be used in a script processing.
+    - **L**: Load parameters from *\*.mat* for the current panel.
+    - **?**: Help information.
+    

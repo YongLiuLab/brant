@@ -1,0 +1,35 @@
+STEP 5: SPON
+---------------------------
+* **AM**: 
+    Click *SPON* button, then *AM*. Select the folders as input directories where `STEP 2`_ outputs. Change filetype to *dnoGSR\*.nii*. Select output directories. 
+
+* **ALFF/fALFF**: 
+    Click *ALFF/fALFF* button in *SPON* GUI. Select the folders as input directories where `STEP 2`_ outputs. Change filetype to *dnoGSR\*.nii*. Remember that TR cannot be 0. Select output directories.
+	
+* **ReHo**: 
+    Click *ReHo* button in *SPON* GUI. Select the folders as input directories where `STEP 2`_ outputs. Change filetype to *dnoGSR\*.nii*. Change nbr type to 6 (face neighbor), 18 (edge neighbor) or 26 (vertex neighbor) if necessary. Select output directories. 
+	
+* **FCD**:
+    Click *FCD* button in *SPON* GUI. Select the folders as input directories where `STEP 2`_ outputs. Change filetype to *dnoGSR\*.nii*. The computation can use either OpenCL supported CPU or GPU. Select output directories. 
+	
+.. figure:: _images/example/step5_AM.png
+   :align: left
+   
+   fig.1 AM
+
+.. figure:: _images/example/step5_ALFF.png
+   :align: right
+   
+   fig.2 ALFF/fALFF
+
+.. figure:: _images/example/step5_ReHo.png
+   :align: center
+   
+   fig.3 ReHo
+   
+.. figure:: _images/example/step5_FCD.png
+   :align: center
+   
+   fig.4 FCD
+   
+.. _`STEP 2`: example_2.html

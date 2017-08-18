@@ -1,0 +1,27 @@
+.. Brant documentation master file, created by
+   sphinx-quickstart on Fri May 26 16:27:58 2017.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Utilities
+===================================
+
+.. toctree::
+   :maxdepth: 2
+
+   Utilities_DICOM_convert
+
+   Utilities_Head_Motion_Est
+
+   Utilities_Visual_Check
+
+   Utilities_TSNR
+
+   Utilities_ROI_coordinates
+
+   Utilities_Extract_Value
+
+   Utilities_Reslice
+
+
+ 

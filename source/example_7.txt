@@ -1,0 +1,38 @@
+STEP 7: Network Properties
+---------------------------------
+* **Input Directories of Network Calculation**:
+    Click the *NET* button, then *Network Calculation*. Open the data directories selection GUI and find the folder where *ROI Calculation* in `STEP 4`_ outputs.
+	
+* **Network Calculation**:
+    Click the *...* button of *Network Properties*, select those you need in the *Brant Net Measure Options* GUI. Those options with (*) will slow down the speed of calculation.
+
+* **Input Directories of Network Statistics**:
+    Click *Network Statistics* button in *NET* GUI.	Open the directories selection GUI and find the folder where *Network Calculation* above outputs. 
+	
+* **Network Statistics**
+	Remove strings from search results parsed by id index such as *_corr_z_network* by typing the strings into the *string removal*. Select the *\*.csv* file created in `STEP 6`_ for *table*. If your table file contains other information such as age or sex, you can input those titles in the *regressors* to ignore them.
+	
+.. figure:: _images/step7_Network_Calculation.png
+   :align: left
+   
+   fig.1 NET => Network Calculation
+
+.. figure:: _images/step7_Network_Statistics.png
+   :align: right
+   
+   fig.2 STAT => Network Statistics
+   
+   
+.. figure:: _images/clustering_coefficient_corr_ttest2_grp1_vs_grp2.png
+   :align: center
+   
+   fig.3 Network Statistics Result 1
+      
+.. figure:: _images/clustering_coefficient_spar_ttest2_grp1_vs_grp2.png
+   :align: center
+   
+   fig.4 Network Statistics Result 2
+   
+.. _`STEP 4`: example_4.html
+
+.. _`STEP 6`: example_6.html

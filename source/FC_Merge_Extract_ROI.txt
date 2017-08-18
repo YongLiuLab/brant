@@ -1,0 +1,32 @@
+Merge/Extract ROIs
+------------------------------
+
+.. image:: _images/merge_roi.png
+   :align: right
+    
+* **Operation**: select to merge 3D rois into one, or extract ROIs from an atlas.    
+ - **Merge**:
+  * **filetype**: files in the filetype will be searched in input directories.
+  * **data dir**: directory in which stores 3D rois.
+  * **out fn**: output filename
+  * **out dir**: output directory
+
+ - **Extract**:
+  * **roi file**: ROIs in one nifti file
+  * **roi info***: (* means optional) labels of tagged ROIs in a *.csv* file. For example::
+
+     1,SFG
+     2,MFG
+     3,IFG
+
+  * **roi index**: a vector of integers. used for selecting wanted ROIs.
+  * **output to single file**: choose to output to only one file.
+  * **out dir**: output directory
+
+.. image:: _images/extract_roi.png
+   :align: right 
+       
+- **Buttons**:
+    - **S**: Save parameters of the current panel to a *\*.mat* file. The *\*.mat* can be further loaded for the panel or be used in a script processing.
+    - **L**: Load parameters from *\*.mat* for the current panel.
+    - **?**: Help information.

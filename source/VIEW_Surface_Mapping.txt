@@ -1,0 +1,37 @@
+Surface Mapping
+---------------------
+
+.. image:: _images/surface_mapping.png
+   :align: right
+      
+* **show colorbar**: display colorbar
+* **discrete value**: the intensity of the input volume has float or integer datatype
+* **alpha**: degree of opeque
+* **max val radius(mm)**: radius for maximum neighbour interpolation. if the radius is greater than the size of a voxel, the program will search for maximum value within a sphere for each vertex, otherwise (leave empty or smaller than the size of a voxel) use the default 1-voxel interpolation.
+    
+* **display**: mode of display
+* **material**:  sets the lighting characteristics of surface and patch objects
+   * **shiny**: sets the reflectance properties so that the object has a high specular reflectance relative to the diffuse and ambient light, and the color of the specular light depends only on the color of the light source
+   * **dull**: sets the reflectance properties so that the object reflects more diffuse light and has no specular highlights, but the color of the reflected light depends only on the light source
+   * **metal**: sets the reflectance properties so that the object has a very high specular reflectance, very low ambient and diffuse reflectance, and the color of the reflected light depends on both the color of the light source and the color of the object
+* **lighting**: selects the algorithm used to calculate the effects of light objects on all surface and patch objects in the current axes
+   * **flat**: produces uniform lighting across each of the faces of the object. Select this method to view faceted objects
+   * **gouraud**: calculates the vertex normals and interpolates linearly across the faces. Select this method to view curved surfaces
+   * **phong**: sets the lighting to phong
+   * **none**: turns off lighting
+* **shading**: controls the color shading of surface and patch graphics objects
+   * **flat**: each mesh line segment and face has a constant color determined by the color value at the endpoint of the segment or the corner of the face that has the smallest index or indices
+   * **faceted**: flat shading with superimposed black mesh lines
+   * **interp**: varies the color in each line segment and face by interpolating the colormap index or true color value across the line or face
+* **surface**: surface file
+* **brain vol**: volume to map to the surface
+* **threshold**: use matlab syntax to generate a mask for input volume.
+    
+- **Buttons**:
+    - **S**: Save parameters of the current panel to a *\*.mat* file. The *\*.mat* can be further loaded for the panel or be used in a script processing.
+    - **L**: Load parameters from *\*.mat* for the current panel.
+    - **?**: Help information.
+
+.. image:: _images/surface_mapping_result.png
+   :align: center
+  

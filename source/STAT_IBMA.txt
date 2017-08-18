@@ -1,0 +1,68 @@
+IBMA (Image-based meta-analysis)
+--------------------------------------------
+
+.. image:: _images/ibma.png
+   :align: right
+      
+* **data**: matrix
+    * **filetype**: files in the filetype will be searched in input directories.
+    * **data dir**: directory where all *ttest2\*.mat* results are stored.
+    
+* **data**: volume
+    * **center info**: number of subjects for different centers. A csv format table is required. N1 and N2 is the number of subjects in each group.
+        ====================== === ===
+        center                 N1  N2
+        ====================== === ===
+        ttest2_center1_a_vs_b  40  39
+        ttest2_center2_a_vs_b  38  37
+        ====================== === ===
+
+    * **mask**: could be whole brain mask or gray matter mask.
+    * **id index**: identifier to find unique string for each subject
+    * **filetype**: files in the filetype will be searched in input directories.
+    * **data dir**: directories can be input either using a *.txt* file or spm select window.
+	
+* **Multiple comparison correction methods (voxel-wise)**
+    * **threshold**: the level of MULCC
+    * **fdrID**: false discovery rate (independent input)
+    * **fdrN**: false discovery rate (inputs not independent)
+    * **bonf**: Bonferroni correction for family wise error rate
+    
+* **IBMA Methods**:
+    * `Stouffer's z-score`_
+    * `Fisher's method`_
+    * `Fixed Effects Model`_
+    * `Mixed Effects Model`_
+    * `Friston's method`_
+    * `Nichols's method`_
+
+
+.. _`Stouffer's z-score`: https://en.wikipedia.org/wiki/Fisher%27s_method#cite_note-5
+.. _`Fisher's method`: https://en.wikipedia.org/wiki/Fisher%27s_method#cite_note-1
+.. _`Fixed Effects Model`: https://doi.org/10.3102/10769986017004279
+.. _`Mixed Effects Model`: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=919993
+.. _`Friston's method`: https://doi.org/10.1016/S0167-7152(99)00149-2
+.. _`Nichols's method`: https://doi.org/10.1016/j.neuroimage.2004.12.005
+	
+* **out dir**: output directory for saving results.
+    
+- **Buttons**:
+    - **S**: Save parameters of the current panel to a *\*.mat* file. The *\*.mat* can be further loaded for the panel or be used in a script processing.
+    - **L**: Load parameters from *\*.mat* for the current panel.
+    - **?**: Help information.
+    
+* **References**:
+1. Stouffer's z-score
+    Stouffer, S.A., Suchman, E.A., DeVinney, L.C., Star, S.A. and Williams Jr, R.M., 1949. *The American soldier: Adjustment during army life.(Studies in social psychology in World War II), Vol. 1*. Princeton University Press, Princeton,.
+2. Fisher
+    Fisher, R.A. (1925). *Statistical Methods for Research Workers.* Oliver and Boyd (Edinburgh). ISBN 0-05-002170-2.
+3. Fixed/mixed Effects Model
+    Hedges, L.V. (1992). Meta-Analysis. *Journal of Educational and Behavioral Statistics.* 17(4), 279-296. doi: 10.3102/10769986017004279.
+
+    Konstantopoulos, S. (2006). Fixed and mixed effects models in meta-analysis. *Iza Discussion Papers*.
+4. Worsley and Friston's method
+    Worsley, K.J., and Friston, K.J. (2000). A test for a conjunction. *Statistics & Probability Letters.* 47(2), 135-140. doi: 10.1016/S0167-7152(99)00149-2.
+5. Nichols's method
+    Nichols, T., Brett, M., Andersson, J., Wager, T., and Poline, J.B. (2005). Valid conjunction inference with the minimum statistic. *Neuroimage.* 25(3), 653-660. doi: 10.1016/j.neuroimage.2004.12.005.
+
+	

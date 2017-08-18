@@ -1,0 +1,39 @@
+STEP 4: Function Connectivity
+-------------------------------------
+   
+* **Input Coordinates for ROI Drawing**:
+    Click *FC*, *Draw ROI*. Both making a *\*.csv* with coordinates (input type: file) or input coordinates divided with ";"(input type: manual) are admitted in BRANT. *Fig.2* shows the format of the csv file.
+
+* **Choose Ref&mask**:
+    Choose a *\*.nii* file as an example. The output files will follow its extracting information of origin, voxel size, bounding box, etc..
+	
+* **Extract ROI**:
+    Click *Merge/extract ROIs* in *FC* GUI, switch the operation to *extract*. Input *roi index* to choose which part you need in the roi file.
+
+* **Input Directories for ROI Calculation**:
+    Click *ROI Calculation* in *FC* GUI. Select the folders as input directories where `STEP 2`_ outputs.
+	
+* **ROI Calculation**:
+    Change filetype to *\fdnoGSR*.nii*, input roi file and roi index or just use the default settings. Select output directories. 
+	
+.. figure:: _images/step4_roi_drawing.png
+   :align: left
+   
+   fig.1 FC => Draw ROI
+
+.. figure:: _images/step4_roi_drawing_input.png
+   :align: center
+   
+   fig.2 example for csv format input
+   
+.. figure:: _images/step4_roi_extract.png
+   :align: center
+   
+   fig.3 FC => Merge/extract ROIs
+
+.. figure:: _images/step4_roi_calculation.png
+   :align: center
+   
+   fig.4 FC => ROI Calculation
+   
+.. _`STEP 2`: example_2.html

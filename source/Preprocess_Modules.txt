@@ -1,0 +1,52 @@
+Preprocess Modules
+======================
+
+**For parameters, press help in each input dialog.**
+
+.. image:: _images/preprocessing_3.png
+   :scale: 100% 
+   :align: right
+   :width: 356
+   :height: 574
+ 
+`Slice Timing`_  
+-------------------------
+
+    Correct for timing information of each slice during one TR.
+
+`Realign`_ 
+----------------------
+
+    Correct and estimate spatially the head motion.
+
+`Coregister (optional)`_
+------------------------------
+    Coregister structural image to mean functional images.
+
+`Normalize`_ 
+------------------------------
+    Normalize functional images to standard space (both `SPM12`_ and `SPM8`_  methods is valid).
+
+`Denoise`_ 
+-------------------------------
+    Multi-variable regression and filter.
+
+`Smooth`_ 
+------------------------------
+    3D spatial smooth with Gaussian kernal.
+
+
+.. _`Slice Timing`: slice_timing.html
+.. _`Realign`: realign.html
+.. _`Coregister (optional)`: coregister.html
+.. _`Normalize`: normalise_spm12.html
+.. _`SPM12`: normalise_spm12.html
+.. _`SPM8`: normalise.html
+.. _`Denoise`: denoise.html
+.. _`Smooth`: smooth.html
+   
+- **Buttons**:
+    - **R**: Refresh (only checkboxes, parameters will remain untouched). Uncheck all  selected items and recover the Run button when an error occurs.
+    - **S**: Save parameters of the current panel to a *\*.mat* file. The *\*.mat* can be  further loaded for the panel or be used in a script processing.
+    - **L**: Load parameters from *\*.mat* for the current panel.
+    - **?**: Help information.

@@ -1,0 +1,57 @@
+STEP 8: Visualization
+------------------------------
+* **Surface Mapping**
+    Click the *VIEW* button, then *Surface Mapping*. Select material, lighting and shading if necessary.
+	
+* **ROI Mapping**
+    Click *ROI Mapping* button in *VIEW* GUI. Select material, lighting and shading if necessary.
+	
+* **Network Visualization**
+    Click *Network Visualization* button in *VIEW* GUI. Open the *node* directories selection GUI and find the *brant_roi_info.csv* file where *ROI Calculation* in `STEP 4`_ outputs. Open the *edge* directories selection GUI and find the *ttest2_grp1_vs_grp2_h_unc.txt* file where *T-Tests* in `STEP 6`_ outputs.
+	
+* **Circos**
+    Click the *Embedded* button, then *Circos*. Select the circos' directories as input or *circos dir*, e.g. *D:/circos-0.69-5/bin*. ROI info can use the example *brant_circos_3mm_273.csv* file in *\*/Matlab/toolbox/brant-master/circos*. Open the *edge* directories selection GUI and find the *ttest2_grp1_vs_grp2_h_unc.txt* file where *T-Tests* in `STEP 6`_ outputs.
+	
+.. figure:: _images/step8_Surface_Mapping.png
+   :align: left
+   
+   fig.1 VIEW => Surface Mapping
+
+.. figure:: _images/step8_ROI_Mapping.png
+   :align: right
+   
+   fig.2 VIEW => ROI Mapping
+   
+.. figure:: _images/surface_mapping_result.png
+   :align: center
+   
+   fig.3 Result of Surface Mapping
+   
+.. figure:: _images/step8_ROI_Mapping_result.png
+   :align: center
+   
+   fig.4 Result of ROI Mapping
+   
+.. figure:: _images/step8_Network_Visualization.png
+   :align: center
+   
+   fig.5 VIEW => Network Visualization
+   
+.. figure:: _images/step8_Network_Visualization_Result.png
+   :align: center
+   
+   fig.6 Result of Network Visualization  
+   
+.. figure:: _images/step8_circos.png
+   :align: center
+   
+   fig.8 Embedded => Circos
+   
+.. figure:: _images/circos_result.png
+   :align: center
+   
+   fig.8 Result of Circos
+   
+.. _`STEP 4`: example_4.html
+
+.. _`STEP 6`: example_6.html

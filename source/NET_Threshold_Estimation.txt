@@ -1,0 +1,20 @@
+Threshold Estimation
+--------------------------------
+
+**Find out for each subject, the sparsity under each threshold of correlation**
+  
+.. image:: _images/threshold_estimation.png
+   :align: right
+  
+* **filetype**: files in the filetype will be searched in input directories.
+* **data dir**: directory where all *\*.txt* correlation matrix results are stored.
+* **use absolute value of input matrics**: as it means
+    
+* **intensity threshold**: vector of thresholds for matrix intensity. e.g. correlation coefficient
+* **out dir**: output directory for saving results.
+    
+- **Buttons**:
+    - **S**: Save parameters of the current panel to a *\*.mat* file. The *\*.mat* can be further loaded for the panel or be used in a script processing.
+    - **L**: Load parameters from *\*.mat* for the current panel.
+    - **?**: Help information.
+    

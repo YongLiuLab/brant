@@ -1,0 +1,26 @@
+Draw ROI
+------------------------------
+
+.. image:: _images/draw_roi.png
+   :align: right
+    
+* **type**: draw roi as sphere or cube
+* **unit**: unit of input radius
+* **radius**: radius of sphere or 1/2 edge length for cubic
+* **input type**: 
+    * manual: input coordinates seperated by ';'
+     e.g::
+
+      25,5,10;10,15,10
+
+    * file: input a csv file with 3 columns for x,y,z (the first line should be 'x', 'y' and 'z')
+	
+* **mask roi afterwards**: mask generated roi using input mask
+* **output to one roi file**: instead of output one file for each roi, BRANT will generate one roi file with each roi labeled by number
+* **ref&mask**: reference and mask file. for extracting information of origin, voxel size, bounding box, etc..
+* **out dir**: directory for output
+    
+- **Buttons**:
+    - **S**: Save parameters of the current panel to a *\*.mat* file. The *\*.mat* can be further loaded for the panel or be used in a script processing.
+    - **L**: Load parameters from *\*.mat* for the current panel.
+    - **?**: Help information.

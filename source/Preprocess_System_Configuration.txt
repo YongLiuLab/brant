@@ -1,0 +1,12 @@
+System Configuration
+--------------------------------
+.. image:: _images/preprocessing_1.png
+   :scale: 75% 
+   :align: right
+   :width: 356
+   :height: 574
+
+* **Output to wk dir**: Set to output results to wk (working) directory defined below. BRANT will create new directory for each subject and copy necessary files to the new directory, then start processing.
+* **Check Board**: Open/Close CheckBoard.
+* **Sync**: Synchronize parameters of TR in slice timing and denoise.
+* **Parallel Workers**: The number of workers used during processing. e.g. when set to 2, BRANT will run 2 subjects in parallel. The processing speed depends on both CPU and Hard Drive speed, if there are a lot data IO with less computation task, set to more workers will slow down the entire process.

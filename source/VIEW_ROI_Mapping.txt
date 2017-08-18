@@ -1,0 +1,39 @@
+ROI Mapping
+----------------------
+  
+.. image:: _images/roi_mapping.png
+   :align: right
+    
+* **alpha**: degree of transparency.
+* **display**: mode of display.
+* **display surface**: show surface.
+* **surface**: surface file.
+* **display legend**: display legend.
+    
+* **roi file**: extract mean intensity in the roi tagged by numbers.
+* **roi info***: optional. two columns of information for each labeled cluster in a *\*.csv* file. For example::
+
+    1,SFG
+    2,MFG
+    3,IFG
+
+    
+* **roi vals**: select which roi to display.
+* **color**: optional. use random color or input color file.
+* **color file**: the input color could be (ROI tag, R, G, B)::
+
+    1,255,155,100
+    2,1,1,1
+
+    
+* **output color**: output color of current image.
+* **out dir**: output directory for saving results.
+    
+- **Buttons**:
+    - **S**: Save parameters of the current panel to a *\*.mat* file. The *\*.mat* can be further loaded for the panel or be used in a script processing.
+    - **L**: Load parameters from *\*.mat* for the current panel.
+    - **?**: Help information.
+  
+.. image:: _images/roi_mapping_result.png
+   :align: center
+ 
