@@ -1,4 +1,4 @@
-STEP 4: Function Connectivity
+STEP 4: Functional Connectivity
 -------------------------------------
    
 * **Input Coordinates for ROI Drawing**:
