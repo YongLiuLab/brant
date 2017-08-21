@@ -6,7 +6,7 @@ Surface Mapping
       
 * **show colorbar**: display colorbar
 * **discrete value**: the intensity of the input volume has float or integer datatype
-* **alpha**: degree of opeque
+* **alpha**: degree of opaque
 * **max val radius(mm)**: radius for maximum neighbour interpolation. if the radius is greater than the size of a voxel, the program will search for maximum value within a sphere for each vertex, otherwise (leave empty or smaller than the size of a voxel) use the default 1-voxel interpolation.
     
 * **display**: mode of display
