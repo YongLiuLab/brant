@@ -17,7 +17,7 @@ How can I Download and Install BRANT
 
 How to Format Tables Correctly
 ---------------------------------------
-* In some fictions, you may have to use some *.csv* files to input data. If you cannot find any proper existed *.csv* files, you can create a *.csv* file by Excel or Notepad. e.g.
+* In some fuctions, you may have to use some *.csv* files to input data. If you cannot find any proper existed *.csv* files, you can create a *.csv* file by Excel or Notepad. e.g.
 
     * STEP 4 => FC => Draw ROI => Coordinates in txt or csv file (input type: file)
 	=== === === ========
