@@ -30,12 +30,12 @@ STEP 3: Visual Check and Head Motion Estimation
     
    fig.3 Utilities => Head Motion Estimation
    
-.. figure:: _images/step3_check_output2.png
+.. figure:: _images/step3_check_output2.PNG
    :align: center
    
    fig.4 brant_headmotion_result.csv
    
-.. figure:: _images/step3_check_output3.png
+.. figure:: _images/step3_check_output3.PNG
    :align: center
    
    fig.5 brant_headmotion_exclusions.txt
