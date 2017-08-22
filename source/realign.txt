@@ -37,7 +37,7 @@
     - `Denoise`_
     - `Smooth`_
 
-.. _`Preprocess Modules`: Preprocess_modules.html
+.. _`Preprocess Modules`: Preprocess_Modules.html
 .. _`Slice Timing`: slice_timing.html
 .. _`Realign`: realign.html
 .. _`Coregister (optional)`: coregister.html
