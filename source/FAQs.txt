@@ -44,6 +44,8 @@ How to Format Tables Correctly
 .. note:: 
 	If you select *paired t-test*, the table should contain an additional column of paired_t_idx
 	
+	Here is the example:
+	
     ====== ======= ======== ===== ============= 
     name   group   filter   age   paired_t_idx
     ====== ======= ======== ===== =============
