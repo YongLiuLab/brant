@@ -13,7 +13,9 @@ How can I Download and Install BRANT
 	
 * Unzip the *brant-master.zip* file. Move the brant folder and spm12 folder to *\*/Matlab/toolbox*.
 
-* Open Matlab, use *Set Path* and add folders above with their subfolders. You can also print *brant_configure_paths* in matlab to config BRANT.
+* Open Matlab, use *Set Path* and add folders above with their subfolders. 
+
+* You can also use the configuration function in BRANT. Use cd('*\*/Matlab/toolbox*') to set the directory of matlab, then print *brant_configure_paths* in matlab to configure BRANT or print *brant_configure_paths('*\*/Matlab/toolbox/spm12*')* to configure spm. 
 
 How to Format Tables Correctly
 ---------------------------------------
@@ -126,3 +128,13 @@ What can I Do When an Error Occurs
 * Solution: Uncheck the *delete first N timepoints* or convert just one set of data per time.
 
 .. _`examples`: Menu_examples.html
+
+6.
+
+.. figure:: _images/faqs_error_new_6.png
+	:align: center
+	
+	fig.6 just test
+	
+* Reason:
+* Solution:
