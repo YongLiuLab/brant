@@ -13,10 +13,10 @@ How can I Download and Install BRANT
 	
 * Unzip the *brant-master.zip* file. Move the brant folder and spm12 folder to *\*/Matlab/toolbox*.
 
-* Open Matlab, use *Set Path* and add folders above with their subfolders. 
+* Open Matlab, use *Set Path* and add folders above with subfolders or use the configuration function in BRANT(**recommended**).
 
 .. note::
-	You can also use the configuration function in BRANT. Use *cd('\*/Matlab/toolbox')* to set the directory of matlab, then print *brant_configure_paths* in matlab to configure BRANT or print *brant_configure_paths('\*/Matlab/toolbox/spm12')* to configure spm. 
+	There is a configuration function in BRANT. Use *cd('\*/Matlab/toolbox')* to set the directory of matlab, then print *brant_configure_paths* in matlab to configure BRANT or print *brant_configure_paths('\*/Matlab/toolbox/spm12')* to configure spm. 
 
 How to Format Tables Correctly
 ---------------------------------------
