@@ -52,7 +52,6 @@ How to Format Tables Correctly
 	subj4  stage2  center2  25    2
 	====== ======= ======== ===== =============
 	
-	
     * STEP 8 => VIEW => Network Visualization => node
 	======= ======= ======= ======= ======= ======
 	x       y       z       label   vox_num index
