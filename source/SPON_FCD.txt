@@ -1,7 +1,7 @@
 FCD/FCS
 --------------------------------------------
 
-.. image:: _images/fcd.png
+.. image:: _images/FCD_new.png
    :align: right
  
 **FCD** is short for **Functional Connectivity Density** and **FCS** is short for **Functional Connectivity Strength**.
