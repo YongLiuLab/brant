@@ -9,11 +9,11 @@ STEP 5: SPON
 * **ReHo**: 
     Click *ReHo* button in *SPON* GUI. Select the folders as input directories where `STEP 2`_ outputs. Change filetype to *dnoGSR\*.nii*. Change nbr type to 6 (face neighbor), 18 (edge neighbor) or 26 (vertex neighbor) if necessary. Select output directories. 
 	
-* **FCD**:
-    Click *FCD* button in *SPON* GUI. Select the folders as input directories where `STEP 2`_ outputs. Change filetype to *dnoGSR\*.nii*. The computation can use either OpenCL supported CPU or GPU. Select output directories. 
+* **FCD/FCS**:
+    Click *FCD/FCS* button in *SPON* GUI. Select the folders as input directories where `STEP 2`_ outputs. Change filetype to *dnoGSR\*.nii*. The computation can use either OpenCL supported CPU or GPU. Select output directories. 
 	
 .. important::
-	Make sure your graphics drivers are up-to-date before using FCD function.
+	Make sure your graphics drivers are up-to-date before using FCD/FCS function.
 	
 .. figure:: _images/example/step5_AM.png
    :align: left
@@ -30,7 +30,7 @@ STEP 5: SPON
    
    fig.3 ReHo
    
-.. figure:: _images/example/step5_FCD.png
+.. figure:: _images/example/step5_fcd.png
    :align: center
    
    fig.4 FCD
