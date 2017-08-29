@@ -30,7 +30,7 @@ STEP 5: SPON
    
    fig.3 ReHo
    
-.. figure:: _images/example/step5_FCD_new.png
+.. figure:: _images/step5_FCD_new.png
    :align: center
    
    fig.4 FCD
