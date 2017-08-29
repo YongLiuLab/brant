@@ -27,7 +27,7 @@ STEP 8: Visualization
    
    fig.3 Result of Surface Mapping
    
-.. figure:: _images/step8_ROI_Mapping_result.png
+.. figure:: _images/step8_ROI_Mapping_Result.png
    :align: center
    
    fig.4 Result of ROI Mapping
