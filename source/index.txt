@@ -5,7 +5,7 @@
 
 Welcome to Brant!
 ===================================
-To facilitate data processing and deal with above listed issues, we’ve written an extendable MATLAB based toolbox BRANT (BRAinNetome Toolkit, www.brant.brainnetome.org), which integrates fMRI data preprocessing, voxel-wise spontaneous activity analysis, functional connectivity analysis, complex network analysis, statistical analysis, data visualization as well as several useful utilities. We designed the toolbox using dynamically generated GUIs, with which other developers can generate their own GUIs by adding a few lines of MATLAB code. 
+To facilitate data processing and deal with above listed issues, we’ve written an extendable MATLAB based toolbox BRANT (BRAinNetome Toolkit), which integrates fMRI data preprocessing, voxel-wise spontaneous activity analysis, functional connectivity analysis, complex network analysis, statistical analysis, data visualization as well as several useful utilities. We designed the toolbox using dynamically generated GUIs, with which other developers can generate their own GUIs by adding a few lines of MATLAB code. 
 
 .. toctree::
    :maxdepth: 2
