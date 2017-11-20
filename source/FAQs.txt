@@ -6,7 +6,7 @@ How can I Download and Install BRANT
     https://github.com/kbxu/brant/archive/master.zip
 	
 * Some functions are based on SPM, you can get it from
-    http://www.fil.ion.ucl.ac.uk/spm/download/spm12_updates
+    http://www.fil.ion.ucl.ac.uk/spm/software/spm12
 	
 * Circos in STEP 8 can be downloaded from
     http://circos.ca/distribution/circos-0.69-5.tgz
