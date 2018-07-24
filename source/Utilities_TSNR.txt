@@ -1,7 +1,7 @@
 TSNR (Temporal Signal to Noise Ratio)
 ---------------------------------------------------
   
-.. image:: _images/tsnr.png
+.. image:: _images/tsnr_new.png
    :align: right
    
 * **mask**: could be whole brain mask or gray matter mask.
@@ -9,6 +9,7 @@ TSNR (Temporal Signal to Noise Ratio)
 * **filetype**: files in the filetype will be searched in input directories.
 * **4D nifti files**: if the input data is 4D, check this item. Otherwise uncheck.
 * **input dirs**: directories can be input either using a *.txt* file or spm select window.
+* **threshold**: intensity threshold for mean TSNR (to generate a binary mask).
 * **out dir**: output directory for saving results.
     
 - **Buttons**:
