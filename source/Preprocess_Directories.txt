@@ -7,6 +7,6 @@ Directories
    :height: 574
 
 * **wk dir**: Working directory to save intermidiate files. By default is set to the current directory.
-* **data dirs**: directories of each subject, can be inupt from an SPM input dialog of directories or from a *\*.txt* file filled with one directory at a line.
+* **data dirs**: directories of each subject, can be input from an SPM input dialog of directories or from a *\*.txt* file filled with one directory at a line.
 * **filetype**: Initial filetype for processing, normally wildcard after DICOM conversion. The item can update itself after each process.
 * **data in 4D**: Checked means input data is in 4D format, which is highly suggested. If 3D file format is used, each subjects directory will have up to thousands of files after process.
