@@ -45,7 +45,7 @@ STEP 8: Visualization
 .. figure:: _images/step8_circos.png
    :align: center
    
-   fig.8 Embedded => Circos
+   fig.7 Embedded => Circos
    
 .. figure:: _images/circos_result.png
    :align: center
