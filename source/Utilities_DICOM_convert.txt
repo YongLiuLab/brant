@@ -1,6 +1,8 @@
 Dicom Convert
 -------------------------------
 
+Since in practice raw MRI data exported from an MR scanner consists of a large number of DICOM images storing slices and volumes of different sequences, by convention we convert the DICOM images to packed 3D or 4D NIFTI images before all processing steps. In BRANT, we use the *dcm2nii* from MRIcron/MRIcro to convert DICOM files into 4D NIfTI images by default and use wildcard characters to locate rs-fMRI image files. For the matched images, the *First N timepoints removal* is used to remove the first N frames that could be influenced by large motion or the instability of magnetic field.
+
 .. image:: _images/dicom_convert.png
    :align: right
     

@@ -1,10 +1,15 @@
 FCD/FCS
 --------------------------------------------
 
+**FCD** is short for **Functional Connectivity Density** and **FCS** is short for **Functional Connectivity Strength**.
+ 
+A region growing algorithm was carried out to measure the local degree of each voxel under a certain threshold of Pearson's correlation. FCD in BRANT has been implemented to calculate the local FCD (lFCD), the global FCD (gFCD) and the long-range FCD (lrFCD) at one time. The lFCD of each voxel represents the number of spatially connected voxels defined by the region growing algorithm, while the gFCD, which is also referred to as the voxel-wise degree centrality, represents the number of voxels that have higher-than-threshold correlation with the seed voxel. The lrFCD is calculated as the gFCD subtracted the lFCD.
+
+Functional connectivity strength (FCS) measures the amount of information a node receives across whole graph or within a distance. Similar to FCD, the voxel-wise Pearson's correlation coefficients are firstly calculated in parallel and then Fisher-z transformed to improve normality. For each voxel, the FCS is calculated as the sum of connectivity that exceeds a given threshold divided by the number of voxels.
+
+
 .. image:: _images/FCD_new.png
    :align: right
- 
-**FCD** is short for **Functional Connectivity Density** and **FCS** is short for **Functional Connectivity Strength**.
  
 * **mask**: could be whole brain mask or gray matter mask.
 * **id index**: identifier to find unique string for each subject

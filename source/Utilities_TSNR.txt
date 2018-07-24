@@ -1,5 +1,7 @@
 TSNR (Temporal Signal to Noise Ratio)
 ---------------------------------------------------
+
+Influenced by the magnetic field inhomogeneity at air-tissue interfaces, rs-fMRI signals at orbitofrontal and temporal medial and polar areas suffer from a certain degree of distortions and signal loss. To exclude spurious voxels, we use the thresholded voxel-wise TSNR, which is calculated as the average intensity of time series divided ty the standart deviation, to generate subject-level or group-leval whole-brain mask.
   
 .. image:: _images/tsnr_new.png
    :align: right

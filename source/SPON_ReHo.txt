@@ -1,6 +1,8 @@
 ReHo
 -------------------------------------
 
+ReHo is calculated as the Kendall's coefficient of concordance (KCC) among a seed voxel and its neighbor voxels, which indicates the degree of spontaneous activity in the seed voxel's vicinity. Voxels of higher intensity in ReHo maps indicate greater similarity among neighboring voxels' time series.
+
 .. image:: _images/reho.png
    :align: right
    

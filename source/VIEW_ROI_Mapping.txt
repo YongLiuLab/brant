@@ -1,6 +1,10 @@
 ROI Mapping
 ----------------------
+
+When visualizing ROIs from an atlas or clusters from a user-defined 3D volume (e.g., clusters with significant difference between sample means), we can use the current function to extract and shade the surface of each number-tagged ROI/cluster in random or user defined colors. The ROIs/clusters of the input 3D image should be tagged with positive-integers. With an additional input of a reference *\*.csv* table containing number-label pairs (as described in `Utilities -> DICOM Convert`_), we can further parse the labels of each shaded ROI/cluster and present them in a legend.
   
+.. _`Utilities -> DICOM Convert`: Utilities_DICOM_convert.html
+ 
 .. image:: _images/roi_mapping.png
    :align: right
     

@@ -1,6 +1,8 @@
 IBMA (Image-based meta-analysis)
 --------------------------------------------
 
+With statistical maps of different datasets tested using same analysis pipeline, and the demography of each sample, users can perform meta-analysis to merge the multisite statistics using image-based or matrix-based meta-analysis. We have implemented Stouffer's z-score method, Fisher's method, fixed/mixed effects model, Worsley and Friston's method and Nichols' method.
+
 .. image:: _images/ibma.png
    :align: right
       

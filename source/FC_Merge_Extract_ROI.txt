@@ -1,6 +1,8 @@
 Merge/Extract ROIs
 ------------------------------
 
+Given a number-tagged atlas, a subset of ROIs indexed by integers can be extracted and exported to one 3D image. At the opposite, given seperated ROI files, the current function can also merge them into one combined atlas-like ROI file, with ROI labels stored in a *\*.csv* table.
+
 .. image:: _images/merge_roi.png
    :align: right
     

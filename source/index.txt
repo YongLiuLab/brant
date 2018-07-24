@@ -7,6 +7,8 @@ Welcome to Brant!
 ===================================
 To facilitate data processing and deal with above listed issues, we’ve written an extendable MATLAB based toolbox BRANT (BRAinNetome Toolkit), which integrates fMRI data preprocessing, voxel-wise spontaneous activity analysis, functional connectivity analysis, complex network analysis, statistical analysis, data visualization as well as several useful utilities. We designed the toolbox using dynamically generated GUIs, with which other developers can generate their own GUIs by adding a few lines of MATLAB code. Also, to simplify the input process during using BRANT, most functions are initialized with default settings, users will only need to specify several necessary parameters, with free access to all.
 
+Functions of BRANT are arranged into 7 modules, which are preprocessing, functional connectivity (FC), spontaneous activity (SPON), complex network analysis (NET), statistics (STAT), visualization (View) and utilities. More details on proper module can be found in its own part.
+
 .. image:: _images/main_gui.png
    :align: center
 

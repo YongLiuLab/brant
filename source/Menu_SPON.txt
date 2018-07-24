@@ -6,6 +6,9 @@
 SPON
 ===================================
 
+
+Voxel-wise metrics of time series implemented in the current module include amplitude of time series (AM), (fractional) amplitude of low frequency fluctuation (ALFF/fALFF), regional homogeneity (ReHo), functional connectivity density (FCD) and functional connectivity strength (FCS). 
+
 .. toctree::
    :maxdepth: 2
 

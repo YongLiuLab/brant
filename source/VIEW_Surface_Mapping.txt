@@ -1,6 +1,8 @@
 Surface Mapping
 ---------------------
 
+Besides shading each ROI/cluster, we can also project the voxel intensities to the surface. By the default, we use a rendered human brain surface constructed from vertices and triangular faces loaded from a pregenerated file. To draw another surface, users can input a binarized 3D mask, with which BRANT can extract the generate vertices and faces and render a new surface. When projecting a 3D volume to surface, the vertices on the surface are shaded as the intensity of the nearest voxel, while the material of the surface, the color maps of positive and negative intensities, the lighting and shading algorithm can be adjusted.
+
 .. image:: _images/surface_mapping.png
    :align: right
       

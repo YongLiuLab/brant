@@ -6,6 +6,10 @@
 FC
 ===================================
 
+Functional connectivity is calculated as the temporal correlation between pairs of time series extracted from ROIs or voxels. 
+
+In BRANT, three methods of preparing ROIs are provided, including drawing spheres/cubes from coordinates, extracting ROIs from an atlas and merging separate ROI files into one number-tagged template.
+
 .. toctree::
    :maxdepth: 2
 

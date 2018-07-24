@@ -6,6 +6,8 @@
 Utilities
 ===================================
 
+We have added several frequently used functions in this module to facilitate DICOM image conversion, the process of quality control, ROI coordinates extraction and 2D/3D signal extraction.
+
 .. toctree::
    :maxdepth: 2
 

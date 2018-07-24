@@ -1,6 +1,8 @@
 ROI coordinates
 -------------------------
-    
+
+To visualize the topological strcture of network connections, ROI coordinates are expected as the centers of spheres. In the current function, coordinate of each number-tagged ROI is calculated as the center of mass with weights and then exported to a *\*.csv* table.
+
 .. image:: _images/roi_coordinates.png
    :align: right
    

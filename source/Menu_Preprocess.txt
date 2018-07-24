@@ -6,6 +6,7 @@
 Preprocess
 ===================================
 
+Raw data collected from MRI scanners are formatted as DICOM (Digital Imaging and Communications in Medicine) files, which are firstly converted to a single 4D NIfTI (Neuroimaging Informatics Technology Initiative) image for efficiently processing. For converted data, visual inspection is recommended to censor data with low quality (artifacts and distortions). Qualified data can be further processed in the preprocessing pipeline.
 
 .. toctree::
    :maxdepth: 2

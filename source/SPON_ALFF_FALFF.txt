@@ -1,6 +1,8 @@
 ALFF/fALFF
 ------------------------------
 
+ALFF is calculated as the amplitude of the time series in a certain frequency band, which is the averaged square root of the power spectral density of the filtered time series. To increase the stability of ALFF across subjects, fALFF was proposed as calculating the fraction of a certain frequency band against the whole available frequency band.
+
 .. image:: _images/alff_falff.png
    :align: right
     

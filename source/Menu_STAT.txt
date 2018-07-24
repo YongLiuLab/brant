@@ -6,6 +6,8 @@
 STAT
 ===================================
 
+The current module provides Student's t-tests for sample mean comparisons and several methods for image-based meta-analysis (IBMA). For multi-comparison correction, we use the Benjamini-Hochberg and the Benjamini-Yekutieli procedures to control the false discovery rate (FDR) of dependent and independent cases, and the Bonferroni procedure to control the familywise error rate (FWER).
+
 .. toctree::
    :maxdepth: 2
 

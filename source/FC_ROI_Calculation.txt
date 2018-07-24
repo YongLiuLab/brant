@@ -1,6 +1,8 @@
 ROI Calculation
 ----------------------------------------------------
 
+With a predefined atlas-like ROI file and a descriptive number-label table, the current function can extract mean time series from ROIs and voxels, and calculate Pearson's correlation as well as its Fisher-z transform. An option is provided to calculate partial correlation between each pair of ROIs, with mean signals of other ROIs as covariates.
+
 .. image:: _images/roi_calculation.png
    :align: right 
        

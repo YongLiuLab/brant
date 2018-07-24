@@ -1,6 +1,8 @@
 Draw ROI
 ------------------------------
 
+*Draw ROIs* is implemented as automatically drawing spheres or cubes with ROI coordinates and a header reference 3D image. The ROI coordinages and labels are sorted in a *\*.csv* table for output indexing purpose, while the header reference image is used to define the output image properties such as bounding box, originator, orientation, inclusive mask, and voxel size.
+
 .. image:: _images/draw_roi.png
    :align: right
     

@@ -1,6 +1,8 @@
 Visual Check
 ---------------------------
 
+The current function provides batch operations to visually inspect artifacts and normalization quality, by calling *Display* from SPM. We've added keyboard operations to the *Display* figure that users can press up/down to switch fMRI volumes of one subject and press left/right to switch subjects. Before running the frame-by-frame inspection, the current function exports screenshots of selected slices overlaid by a semi-transparent brain mask for a glimpse of the overall image quality.
+
 .. image:: _images/visual_check.png
    :align: right
      

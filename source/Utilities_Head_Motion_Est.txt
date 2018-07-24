@@ -1,6 +1,8 @@
 Head Motion Estimate
 ---------------------------------
 
+Head motion has been found having an impact on rs-fMRI signals. In preprocessing, six head motion parameters of (x-,y-,z-) translations and (pitch-,yaw-,roll-) rotations estimated during realignment are used as the inputs of the current function. By the default, the current function outputs the maximum absolute translation and rotation between frames as the exclusion criterion of large-motion subject. Additionally, the mean head displacement (the root-mean-square of translation parameters), the maximum head displacement, the number of micro displacement (>0.1mm), the mean absolute Euler angle of rotation, the framewise displacement (FD) and the number of frames with FD>0.5mm, are also exported to provide more subject exclusion criteria.
+
 .. image:: _images/head_motion_est.png
    :align: right
        

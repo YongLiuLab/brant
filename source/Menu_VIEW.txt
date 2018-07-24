@@ -6,6 +6,8 @@
 VIEW
 ===================================
 
+To visualize voxel intensities, we have implemented the *ROI Mapping* to extract and render the surface of 3D clusters, the *Surface Mapping* to project voxel intensity to vertices on a surface. To visualize ROI-ROI connectivity, *Network Visualization* is implemented to draw spheres and rods within a rendered brain surface, to present nodes and edges of the input network.
+
 .. toctree::
    :maxdepth: 2
 
