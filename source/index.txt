@@ -9,8 +9,6 @@ To facilitate data processing and deal with above listed issues, we’ve written
 
 .. image:: _images/main_gui.png
    :align: center
-   
-   fig.1 Main Window
 
 .. toctree::
    :maxdepth: 2
