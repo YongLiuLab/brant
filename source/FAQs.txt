@@ -23,7 +23,7 @@ What is BRANT's Advantage Compared with Other Matlab-based Toolboxes
 -------------------------------------------------------------------------
 Compared with DPABI v2.3, GRETNA v2.0.0 and CONN v17.f, the differences are listed in the table below.
 
-In conclusion, BRANT can directly support *\*.gz* for most postprocessing functions, use OPENCL-based parallel computing for time consuming FCD/FCS calculation to save time. Other than focusing on several specific types of rs-fMRI data processing, functions of BRANT cover a wide range of rs-fMRI data processing methods. Also, GUIs are created automatically with a few lines of MATLAB code instead of drawn manually.
+In conclusion, BRANT can directly support :file:`\*.gz` for most postprocessing functions, use OPENCL-based parallel computing for time consuming FCD/FCS calculation to save time. Other than focusing on several specific types of rs-fMRI data processing, functions of BRANT cover a wide range of rs-fMRI data processing methods. Also, GUIs are created automatically with a few lines of MATLAB code instead of drawn manually.
 	
 .. figure:: _images/result1.png
    :align: center
@@ -33,7 +33,7 @@ In conclusion, BRANT can directly support *\*.gz* for most postprocessing functi
 	
 How to Format Tables Correctly
 ---------------------------------------
-* In some fuctions, you may have to use some *.csv* files to input data. If you cannot find any proper existed *.csv* files, you can create a *.csv* file by Excel or Notepad. e.g.
+* In some fuctions, you may have to use some :file:`\*.csv` files to input data. If you cannot find any proper existed :file:`\*.csv` files, you can create a :file:`\*.csv` file by Excel or Notepad. e.g.
 
     * STEP 4 => FC => Draw ROI => Coordinates in txt or csv file (input type: file)
 	=== === === ========
@@ -74,7 +74,7 @@ How to Format Tables Correctly
 	======= ======= ======= ======= ======= ======
 	
 	
-	This *brant_roi_info.csv* file can be found in the folder as the *out dir* of *ROI Calculation* in `STEP 4`_.
+	This :file:`brant_roi_info.csv` file can be found in the folder as the *out dir* of *ROI Calculation* in `STEP 4`_.
 	
 	
     * STEP 8 => Embedded => Circos => roi info
@@ -86,7 +86,7 @@ How to Format Tables Correctly
 	======== ======= ======== =========== ======= ======== ======= ======= ============= ===========
 	
 	
-	This *brant_circos_3mm_273.csv* file can be found in the *\*/Matlab/toolbox/brant-master/circos*.
+	This :file:`brant_circos_3mm_273.csv` file can be found in the :file:`\*/Matlab/toolbox/brant-master/circos`.
 
 	
 	
@@ -117,7 +117,7 @@ What can I Do When an Error Occurs
    
    fig.3 error after preprocessing
    
-* Reason: The preprocessing may be interrupted and create wrong *.nii* files. 
+* Reason: The preprocessing may be interrupted and create wrong :file:`\*.nii` files. 
 * Solution: Delete files created during preprocessing, examine your preprocessing settings and run preprocessing again.
 
 3.
@@ -147,7 +147,7 @@ What can I Do When an Error Occurs
    
    fig.6 error after DICOM Convert
    
-* Reason: More than one *\*.nii* files were found in above directories.
+* Reason: More than one :file:`\*.nii` files were found in above directories.
 * Solution: Uncheck the *delete first N timepoints* or convert just one set of data per time.
 
 .. _`examples`: Menu_examples.html
