@@ -9,5 +9,18 @@ The MR images were acquired on a 3.0-T MR scanner (Magnetom Trio, Siemens, Germa
 
 No significant differences (P>0.05) of age (two-tailed two sample t-test), gender (chi-squared test) and education (two-tailed two sample t-test) were found between each patient group and NC group. T-statistic maps of fALFF, ReHo and results of FCs (P<0.001, uncorrected) based on different toolkits have quite similar patterns, which suggest BRANT is another optimal toolkit for rs-fMRI research community. In the results, the minor differences can be induced by 489 different implementations of trends removal, covariance regression and band-pass filter. For the results, we didn’t draw a strong conclusion, since the interpretation requires multiple comparison corrections and is not the main point of the current study.
 
+We have listed the differences among BRANT and other Matlab-based toolboxes in `FAQs`_. We can also find that t-statistic maps of fALFF, ReHo and results of FCs (P<0.001, uncorrected) based on different toolkits have quite similar patterns, which suggest BRANT is another optimal toolkit for rs-fMRI research community.
+
+.. figure:: _images/result2.tif
+   :align: center
+   
+   fig.1 T-statistic maps of fALFF and ReHo based on different toolkits
+   
+.. figure:: _images/result3.tif
+   :align: center
+   
+   fig.1 results of FCs based on different toolkits
 
 .. _`online`: https://github.com/yongliulab
+
+.. _`FAQs`: FAQs.html#what-is-brant-s-advantages-compared-with-other-matlab-based-toolboxes

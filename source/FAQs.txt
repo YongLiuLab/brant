@@ -80,6 +80,16 @@ How to Format Tables Correctly
 .. _`STEP 4`: example_4.html 
 	
 
+What is BRANT's Advantages Compared with Other Matlab-based Toolboxes
+-------------------------------------------------------------------------
+Compared with DPABI v2.3, GRETNA v2.0.0 and CONN v17.f, the differences are listed in the table below.
+
+In conclusion, BRANT can directly support *.gz for most postprocessing functions, use OPENCL-based parallel computing for time consuming FCD/FCS calculation to save time. Other than focusing on several specific types of rs-fMRI data processing, functions of BRANT cover a wide range of rs-fMRI data processing methods. Also, GUIs are created automatically with a few lines of MATLAB code instead of drawn manually.
+	
+.. figure:: _images/result1.tif
+   :align: center
+   
+   fig.1 differences among four Matlab-based toolboxes
  
 What can I Do When an Error Occurs
 -------------------------------------
@@ -91,7 +101,7 @@ What can I Do When an Error Occurs
 .. figure:: _images/faqs_error_new_2.png
    :align: center
    
-   fig.1 error during DICOM Convert
+   fig.2 error during DICOM Convert
    
 * Reason: Misuse id index. 
 * Solution: Delete files created before the error occurs. Read `example`_ to use id index properly.
@@ -103,7 +113,7 @@ What can I Do When an Error Occurs
 .. figure:: _images/faqs_error_new_1.png
    :align: center
    
-   fig.2 error after preprocessing
+   fig.3 error after preprocessing
    
 * Reason: The preprocessing may be interrupted and create wrong *.nii* files. 
 * Solution: Delete files created during preprocessing, examine your preprocessing settings and run preprocessing again.
@@ -113,7 +123,7 @@ What can I Do When an Error Occurs
 .. figure:: _images/faqs_error_new_5.png
    :align: center
    
-   fig.3 error during preprocessing
+   fig.4 error during preprocessing
    
 * Reason: TR(s) in Preprocessing is zero.
 * Solution: Set tr(s) in *Silce Timing* to a legal value.
@@ -123,7 +133,7 @@ What can I Do When an Error Occurs
 .. figure:: _images/faqs_error_new_3.png
    :align: center
    
-   fig.4 error during STAT
+   fig.5 error during STAT
    
 * Reason: The table file is incorrect.
 * Solution: Confirm that the table file contains a row with group information and contains only one row. Open it with notepad to check if the data in this file is divided by comma. 
@@ -133,7 +143,7 @@ What can I Do When an Error Occurs
 .. figure:: _images/faqs_error_new_4.png
    :align: center
    
-   fig.5 error after DICOM Convert
+   fig.6 error after DICOM Convert
    
 * Reason: More than one *\*.nii* files were found in above directories.
 * Solution: Uncheck the *delete first N timepoints* or convert just one set of data per time.
