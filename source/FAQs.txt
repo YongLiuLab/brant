@@ -11,7 +11,7 @@ How can I Download and Install BRANT
 * Circos in STEP 8 can be downloaded from
     http://circos.ca/distribution/circos-0.69-5.tgz
 	
-* Unzip the *brant-master.zip* file. Move the brant folder and spm12 folder to *\*/Matlab/toolbox*.
+* Unzip the *brant-master.zip* file. Move the brant folder and spm12 folder to :file:`\*/Matlab/toolbox`.
 
 * Open Matlab, use *Set Path* and add folders above with subfolders or use the configuration function in BRANT(**recommended**).
 
