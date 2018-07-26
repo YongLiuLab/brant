@@ -19,8 +19,8 @@ We have listed the differences among BRANT and other Matlab-based toolboxes in `
 .. figure:: _images/result3.png
    :align: center
    
-   fig.1 results of FCs based on different toolkits
+   fig.2 results of FCs based on different toolkits
 
 .. _`online`: https://github.com/yongliulab
 
-.. _`FAQs`: FAQs.html#what-is-brant-s-advantages-compared-with-other-matlab-based-toolboxes
+.. _`FAQs`: FAQs.html#what-is-brant-s-advantage-compared-with-other-matlab-based-toolboxes

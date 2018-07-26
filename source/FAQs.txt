@@ -18,6 +18,19 @@ How can I Download and Install BRANT
 .. tip::
 	There is a configuration function in BRANT. Use *cd('\*/Matlab/toolbox')* to set the directory of matlab, then print *brant_configure_paths* in matlab to configure BRANT or print *brant_configure_paths('\*/Matlab/toolbox/spm12')* to configure spm. 
 
+
+What is BRANT's Advantage Compared with Other Matlab-based Toolboxes
+-------------------------------------------------------------------------
+Compared with DPABI v2.3, GRETNA v2.0.0 and CONN v17.f, the differences are listed in the table below.
+
+In conclusion, BRANT can directly support *\*.gz* for most postprocessing functions, use OPENCL-based parallel computing for time consuming FCD/FCS calculation to save time. Other than focusing on several specific types of rs-fMRI data processing, functions of BRANT cover a wide range of rs-fMRI data processing methods. Also, GUIs are created automatically with a few lines of MATLAB code instead of drawn manually.
+	
+.. figure:: _images/result1.png
+   :align: center
+   
+   fig.1 differences among four Matlab-based toolboxes
+	
+	
 How to Format Tables Correctly
 ---------------------------------------
 * In some fuctions, you may have to use some *.csv* files to input data. If you cannot find any proper existed *.csv* files, you can create a *.csv* file by Excel or Notepad. e.g.
@@ -79,17 +92,6 @@ How to Format Tables Correctly
 	
 .. _`STEP 4`: example_4.html 
 	
-
-What is BRANT's Advantages Compared with Other Matlab-based Toolboxes
--------------------------------------------------------------------------
-Compared with DPABI v2.3, GRETNA v2.0.0 and CONN v17.f, the differences are listed in the table below.
-
-In conclusion, BRANT can directly support *.gz for most postprocessing functions, use OPENCL-based parallel computing for time consuming FCD/FCS calculation to save time. Other than focusing on several specific types of rs-fMRI data processing, functions of BRANT cover a wide range of rs-fMRI data processing methods. Also, GUIs are created automatically with a few lines of MATLAB code instead of drawn manually.
-	
-.. figure:: _images/result1.png
-   :align: center
-   
-   fig.1 differences among four Matlab-based toolboxes
  
 What can I Do When an Error Occurs
 -------------------------------------
