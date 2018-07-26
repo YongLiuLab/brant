@@ -1,7 +1,7 @@
 Merge/Extract ROIs
 ------------------------------
 
-Given a number-tagged atlas, a subset of ROIs indexed by integers can be extracted and exported to one 3D image. At the opposite, given seperated ROI files, the current function can also merge them into one combined atlas-like ROI file, with ROI labels stored in a *\*.csv* table.
+Given a number-tagged atlas, a subset of ROIs indexed by integers can be extracted and exported to one 3D image. At the opposite, given seperated ROI files, the current function can also merge them into one combined atlas-like ROI file, with ROI labels stored in a :file:`\*.csv` table.
 
 .. image:: _images/merge_roi.png
    :align: right
@@ -15,7 +15,7 @@ Given a number-tagged atlas, a subset of ROIs indexed by integers can be extract
 
  - **Extract**:
   * **roi file**: ROIs in one nifti file
-  * **roi info***: (* means optional) labels of tagged ROIs in a *.csv* file. For example::
+  * **roi info***: (* means optional) labels of tagged ROIs in a :file:`\*.csv` file. For example::
 
      1,SFG
      2,MFG
@@ -29,6 +29,6 @@ Given a number-tagged atlas, a subset of ROIs indexed by integers can be extract
    :align: right 
        
 - **Buttons**:
-    - **S**: Save parameters of the current panel to a *\*.mat* file. The *\*.mat* can be further loaded for the panel or be used in a script processing.
-    - **L**: Load parameters from *\*.mat* for the current panel.
+    - **S**: Save parameters of the current panel to a :file:`\*.mat` file. The :file:`\*.mat` can be further loaded for the panel or be used in a script processing.
+    - **L**: Load parameters from :file:`\*.mat` for the current panel.
     - **?**: Help information.

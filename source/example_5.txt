@@ -1,16 +1,16 @@
 STEP 5: SPON
 ---------------------------
 * **AM**: 
-    Click *SPON* button, then *AM*. Select the folders as input directories where `STEP 2`_ outputs. Change filetype to *dnoGSR\*.nii*. Select output directories. 
+    Click *SPON* button, then *AM*. Select the folders as input directories where `STEP 2`_ outputs. Change filetype to :file:`dnoGSR\*.nii`. Select output directories. 
 
 * **ALFF/fALFF**: 
-    Click *ALFF/fALFF* button in *SPON* GUI. Select the folders as input directories where `STEP 2`_ outputs. Change filetype to *dnoGSR\*.nii*. Remember that TR cannot be 0. Select output directories.
+    Click *ALFF/fALFF* button in *SPON* GUI. Select the folders as input directories where `STEP 2`_ outputs. Change filetype to :file:`dnoGSR\*.nii`. Remember that TR cannot be 0. Select output directories.
 	
 * **ReHo**: 
-    Click *ReHo* button in *SPON* GUI. Select the folders as input directories where `STEP 2`_ outputs. Change filetype to *dnoGSR\*.nii*. Change nbr type to 6 (face neighbor), 18 (edge neighbor) or 26 (vertex neighbor) if necessary. Select output directories. 
+    Click *ReHo* button in *SPON* GUI. Select the folders as input directories where `STEP 2`_ outputs. Change filetype to :file:`dnoGSR\*.nii`. Change nbr type to 6 (face neighbor), 18 (edge neighbor) or 26 (vertex neighbor) if necessary. Select output directories. 
 	
 * **FCD/FCS**:
-    Click *FCD/FCS* button in *SPON* GUI. Select the folders as input directories where `STEP 2`_ outputs. Change filetype to *dnoGSR\*.nii*. The computation can use either OpenCL supported CPU or GPU. Select output directories. You can also calculate FCS with absolute value if necessary by selecting the *abs fcs* in *metrics*.
+    Click *FCD/FCS* button in *SPON* GUI. Select the folders as input directories where `STEP 2`_ outputs. Change filetype to :file:`dnoGSR\*.nii`. The computation can use either OpenCL supported CPU or GPU. Select output directories. You can also calculate FCS with absolute value if necessary by selecting the *abs fcs* in *metrics*.
 	
 .. important::
 	Make sure your graphics drivers are up-to-date before using FCD/FCS function.

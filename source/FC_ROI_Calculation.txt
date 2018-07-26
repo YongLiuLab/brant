@@ -7,7 +7,7 @@ With a predefined atlas-like ROI file and a descriptive number-label table, the 
    :align: right 
        
 * **roi file**: ROIs in one nifti file
-* **roi index(*)**: optional. labels of tagged ROIs in a *.csv* file. 
+* **roi index(*)**: optional. labels of tagged ROIs in a :file:`\*.csv` file. 
   For example::
 
     1,SFG
@@ -19,7 +19,7 @@ With a predefined atlas-like ROI file and a descriptive number-label table, the 
 * **id index**: identifier to find unique string for each subject
 * **filetype**: files in the filetype will be searched in input directories.
 * **4D nifti files**: if the input data is 4D, check this item. Otherwise uncheck.
-* **input dirs**: directories can be input either using a *.txt* file or spm select window.
+* **input dirs**: directories can be input either using a :file:`\*.txt` file or spm select window.
     
 * **extract mean**: extract mean time series for each ROI
 * **roi to roi correlation**: calculate correlation between pairs of ROI
@@ -30,6 +30,6 @@ With a predefined atlas-like ROI file and a descriptive number-label table, the 
 * **out dir**: output directory for saving results.
     
 - **Buttons**:
-    - **S**: Save parameters of the current panel to a *\*.mat* file. The *\*.mat* can be further loaded for the panel or be used in a script processing.
-    - **L**: Load parameters from *\*.mat* for the current panel.
+    - **S**: Save parameters of the current panel to a :file:`\*.mat` file. The :file:`\*.mat` can be further loaded for the panel or be used in a script processing.
+    - **L**: Load parameters from :file:`\*.mat` for the current panel.
     - **?**: Help information.

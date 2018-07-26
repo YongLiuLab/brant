@@ -6,7 +6,7 @@ Network Calculation
     
 * **parallel workers**: number of workers used for parallel computing.
 * **filetype**: files in the filetype will be searched in input directories.
-* **data dir**: directory where all *\*.txt* correlation matrix results are stored.
+* **data dir**: directory where all :file:`\*.txt` correlation matrix results are stored.
     
 * **matrix type**:
     * **raw value**: use raw value to construct binary matrix.
@@ -25,6 +25,6 @@ Network Calculation
 * **Inf in small worldness**: The small-worldness is calculated as real-network / random-network, and in real and random case, small-worldness is calculated as clustering coefficient/shortest-path length. If the mean clustering coefficient of the random-network is zero, then the small-worldness of random-network is zero, and it will cause the real-network / random-network to be Inf(any non-zero divided by 0). The solution is set smaller thresholds that avaliable for all subjects.
     
 - **Buttons**:
-    - **S**: Save parameters of the current panel to a *\*.mat* file. The *\*.mat* can be further loaded for the panel or be used in a script processing.
-    - **L**: Load parameters from *\*.mat* for the current panel.
+    - **S**: Save parameters of the current panel to a :file:`\*.mat` file. The :file:`\*.mat` can be further loaded for the panel or be used in a script processing.
+    - **L**: Load parameters from :file:`\*.mat` for the current panel.
     - **?**: Help information.

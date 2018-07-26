@@ -2,10 +2,10 @@ STEP 4: Functional Connectivity
 -------------------------------------
    
 * **Input Coordinates for ROI Drawing**:
-    Click *FC*, *Draw ROI*. Both making a *\*.csv* with coordinates (input type: file) or input coordinates divided with ";"(input type: manual) are admitted in BRANT. *Fig.2* shows the format of the csv file.
+    Click *FC*, *Draw ROI*. Both making a :file:`\*.csv` with coordinates (input type: file) or input coordinates divided with ";"(input type: manual) are admitted in BRANT. *Fig.2* shows the format of the csv file.
 
 * **Choose Ref&mask**:
-    Choose a *\*.nii* file as an example. The output files will follow its extracting information of origin, voxel size, bounding box, etc..
+    Choose a :file:`\*.nii` file as an example. The output files will follow its extracting information of origin, voxel size, bounding box, etc..
 	
 * **Extract ROI**:
     Click *Merge/extract ROIs* in *FC* GUI, switch the operation to *extract*. Input *roi index* to choose which part you need in the roi file.
@@ -14,7 +14,7 @@ STEP 4: Functional Connectivity
     Click *ROI Calculation* in *FC* GUI. Select the folders as input directories where `STEP 2`_ outputs.
 	
 * **ROI Calculation**:
-    Change filetype to *\fdnoGSR*.nii*, input roi file and roi index or just use the default settings. Select output directories. 
+    Change filetype to :file:`\fdnoGSR*.nii`, input roi file and roi index or just use the default settings. Select output directories. 
 	
 .. figure:: _images/step4_roi_drawing.png
    :align: left

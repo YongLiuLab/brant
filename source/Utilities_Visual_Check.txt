@@ -12,7 +12,7 @@ The current function provides batch operations to visually inspect artifacts and
 * **id index**: identifier to find unique string for each subject
 * **filetype**: files in the filetype will be searched in input directories.
 * **4D nifti files**: if the input data is 4D, check this item. Otherwise uncheck.
-* **input dirs**: directories can be input either using a *.txt* file or spm select window.
+* **input dirs**: directories can be input either using a :file:`\*.txt` file or spm select window.
 * **display orthogonal view**: check to display orthogonal view of selected slices and save screenshots. uncheck will only save screenshots to out dir.
 * **mask color**: color of the transparent overlaid mask.
 * **slices**: modified image n-th slice of x,y,z to save.
@@ -23,7 +23,7 @@ The current function provides batch operations to visually inspect artifacts and
     - **Left/Right**: same timepoint of last/next subject.
     
 * **Buttons**:
-    * **S**: Save parameters of the current panel to a *\*.mat* file. The *\*.mat* can be further loaded for the panel or be used in a script processing.
-    * **L**: Load parameters from *\*.mat* for the current panel.
+    * **S**: Save parameters of the current panel to a :file:`\*.mat` file. The :file:`\*.mat` can be further loaded for the panel or be used in a script processing.
+    * **L**: Load parameters from :file:`\*.mat` for the current panel.
     * **?**: Help information.
     

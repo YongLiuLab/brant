@@ -1,7 +1,7 @@
 ROI coordinates
 -------------------------
 
-To visualize the topological strcture of network connections, ROI coordinates are expected as the centers of spheres. In the current function, coordinate of each number-tagged ROI is calculated as the center of mass with weights and then exported to a *\*.csv* table.
+To visualize the topological strcture of network connections, ROI coordinates are expected as the centers of spheres. In the current function, coordinate of each number-tagged ROI is calculated as the center of mass with weights and then exported to a :file:`\*.csv` table.
 
 .. image:: _images/roi_coordinates.png
    :align: right
@@ -15,7 +15,7 @@ To visualize the topological strcture of network connections, ROI coordinates ar
 * **out dir**: output directory for saving results.
     
 - **Buttons**:
-    - **S**: Save parameters of the current panel to a *\*.mat* file. The *\*.mat* can be further loaded for the panel or be used in a script processing.
-    - **L**: Load parameters from *\*.mat* for the current panel.
+    - **S**: Save parameters of the current panel to a :file:`\*.mat` file. The :file:`\*.mat` can be further loaded for the panel or be used in a script processing.
+    - **L**: Load parameters from :file:`\*.mat` for the current panel.
     - **?**: Help information.
     

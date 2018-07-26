@@ -47,6 +47,6 @@ Preprocess Modules
    
 - **Buttons**:
     - **R**: Refresh (only checkboxes, parameters will remain untouched). Uncheck all  selected items and recover the Run button when an error occurs.
-    - **S**: Save parameters of the current panel to a *\*.mat* file. The *\*.mat* can be  further loaded for the panel or be used in a script processing.
-    - **L**: Load parameters from *\*.mat* for the current panel.
+    - **S**: Save parameters of the current panel to a :file:`\*.mat` file. The :file:`\*.mat` can be  further loaded for the panel or be used in a script processing.
+    - **L**: Load parameters from :file:`\*.mat` for the current panel.
     - **?**: Help information.

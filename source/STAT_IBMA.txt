@@ -8,7 +8,7 @@ With statistical maps of different datasets tested using same analysis pipeline,
       
 * **data**: matrix
     * **filetype**: files in the filetype will be searched in input directories.
-    * **data dir**: directory where all *ttest2\*.mat* results are stored.
+    * **data dir**: directory where all :file:`ttest2\*.mat` results are stored.
     
 * **data**: volume
     * **center info**: number of subjects for different centers. A csv format table is required. N1 and N2 is the number of subjects in each group.
@@ -22,7 +22,7 @@ With statistical maps of different datasets tested using same analysis pipeline,
     * **mask**: could be whole brain mask or gray matter mask.
     * **id index**: identifier to find unique string for each subject
     * **filetype**: files in the filetype will be searched in input directories.
-    * **data dir**: directories can be input either using a *.txt* file or spm select window.
+    * **data dir**: directories can be input either using a :file:`\*.txt` file or spm select window.
 	
 * **Multiple comparison correction methods (voxel-wise)**
     * **threshold**: the level of MULCC
@@ -49,8 +49,8 @@ With statistical maps of different datasets tested using same analysis pipeline,
 * **out dir**: output directory for saving results.
     
 - **Buttons**:
-    - **S**: Save parameters of the current panel to a *\*.mat* file. The *\*.mat* can be further loaded for the panel or be used in a script processing.
-    - **L**: Load parameters from *\*.mat* for the current panel.
+    - **S**: Save parameters of the current panel to a :file:`\*.mat` file. The :file:`\*.mat` can be further loaded for the panel or be used in a script processing.
+    - **L**: Load parameters from :file:`\*.mat` for the current panel.
     - **?**: Help information.
     
 * **References**:

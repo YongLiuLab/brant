@@ -2,10 +2,10 @@ STEP 2: Preprocessing
 ------------------------------------
   
 * **Input Directories for Preprocessing**:
-    Click the *Preprocessing* button. Select the folders as data dirs where `STEP 1`_ outputs. You can check the *from text file* and select a *brant_preprocess_paths.txt* file which has already automatically created.
+    Click the *Preprocessing* button. Select the folders as data dirs where `STEP 1`_ outputs. You can check the *from text file* and select a :file:`brant_preprocess_paths.txt` file which has already automatically created.
 
 * **Preprocessing Settings**:
-    Check the checkboxes you need, remember to modify parameters. You donnot need to check the *Coregister* checkbox without structural images. Remember to change the *source* parameter in Normalise to *co\*.nii* if you're preprocessing images with structural images.
+    Check the checkboxes you need, remember to modify parameters. You donnot need to check the *Coregister* checkbox without structural images. Remember to change the *source* parameter in Normalise to :file:`co\*.nii` if you're preprocessing images with structural images.
 
 .. note::
 

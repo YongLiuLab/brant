@@ -5,7 +5,7 @@ Network Statistics
    :align: right
       
 * **filetype**: files in the filetype will be searched in input directories.
-* **data dir**: directory where *\*.mat* result of NETWORK CALCULATION is stored.
+* **data dir**: directory where :file:`\*.mat` result of NETWORK CALCULATION is stored.
 * **stat type**: one sample t-test, two sample t-test and paired t-test.
 * **groups**:
     * for two sample t-test, e.g. SZ,NC -> will do two-sample t-test for SZ and NC
@@ -41,9 +41,9 @@ Network Statistics
 * **discard subjects without info**: when checked, if subjects' information are not found in the table, a warning message will be shown; when unchecked, an error message will be shown.    
 * **out dir**: output directory for saving results.
     
-* If the output figure is empty, check whether there is NaN or Inf in the output *\*.csv* files, where the raw global network properties are extracted.
+* If the output figure is empty, check whether there is NaN or Inf in the output :file:`\*.csv` files, where the raw global network properties are extracted.
 	
 - **Buttons**:
-    - **S**: Save parameters of the current panel to a *\*.mat* file. The *\*.mat* can be further loaded for the panel or be used in a script processing.
-    - **L**: Load parameters from *\*.mat* for the current panel.
+    - **S**: Save parameters of the current panel to a :file:`\*.mat` file. The :file:`\*.mat` can be further loaded for the panel or be used in a script processing.
+    - **L**: Load parameters from :file:`\*.mat` for the current panel.
     - **?**: Help information.

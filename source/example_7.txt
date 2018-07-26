@@ -10,7 +10,7 @@ STEP 7: Network Properties
     Click *Network Statistics* button in *NET* GUI.	Open the directories selection GUI and find the folder where *Network Calculation* above outputs. 
 	
 * **Network Statistics**
-	Remove strings from search results parsed by id index such as *_corr_z_network* by typing the strings into the *string removal*. Select the *\*.csv* file created in `STEP 6`_ as input of *table*. If your table file contains other information such as age or sex, you can input those titles in the *regressors* to ignore them.
+	Remove strings from search results parsed by id index such as :file:`_corr_z_network` by typing the strings into the *string removal*. Select the :file:`\*.csv` file created in `STEP 6`_ as input of *table*. If your table file contains other information such as age or sex, you can input those titles in the *regressors* to ignore them.
 	
 .. figure:: _images/step7_Network_Calculation.png
    :align: left

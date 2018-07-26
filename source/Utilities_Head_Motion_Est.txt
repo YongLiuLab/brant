@@ -8,12 +8,12 @@ Head motion has been found having an impact on rs-fMRI signals. In preprocessing
        
 * **id index**: identifier to find unique string for each subject
 * **filetype**: files in the filetype will be searched in input directories.
-* **input dirs**: directories can be input either using a *.txt* file or spm select window.
+* **input dirs**: directories can be input either using a :file:`.txt` file or spm select window.
 * **out dir**: output directory for saving results.
     
 - **Meaning of results**:
-    - **max-abstranslation(mm)**: maximum translation. Estimated as the max absolute value of the first 3 columns from *rp\*.txt*
-    - **max-absrotation(deg)**: maximum rotation. Estimated as the max absolute value of the last 3 columns from *rp\*.txt* multiple by 180/pi.
+    - **max-abstranslation(mm)**: maximum translation. Estimated as the max absolute value of the first 3 columns from :file:`rp\*.txt`
+    - **max-absrotation(deg)**: maximum rotation. Estimated as the max absolute value of the last 3 columns from :file:`rp\*.txt` multiple by 180/pi.
     
     - **From van Dijk et al., Neuroimage 2012**
         - **max-motion-Dijk(mm)**: maximum root-mean-square of translation.
@@ -32,7 +32,7 @@ Head motion has been found having an impact on rs-fMRI signals. In preprocessing
    :scale: 50%
     
 * **Buttons**:
-    * **S**: Save parameters of the current panel to a *\*.mat* file. The *\*.mat* can be further loaded for the panel or be used in a script processing.
-    * **L**: Load parameters from *\*.mat* for the current panel.
+    * **S**: Save parameters of the current panel to a :file:`\*.mat` file. The :file:`\*.mat` can be further loaded for the panel or be used in a script processing.
+    * **L**: Load parameters from :file:`\*.mat` for the current panel.
     * **?**: Help information.
     

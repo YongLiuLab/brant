@@ -1,7 +1,7 @@
 Network Visualization
 ----------------------------
 
-Using a *\*.txt* file storing symmetric connectivity matrix and a *\*.csv* table with nodal information (such as coordinate, label, module and color) as input, we can draw spheres and rods to visualize nodes and edges.
+Using a :file:`\*.txt` file storing symmetric connectivity matrix and a :file:`\*.csv` table with nodal information (such as coordinate, label, module and color) as input, we can draw spheres and rods to visualize nodes and edges.
 
 .. image:: _images/network_visualization.png
    :align: right
@@ -35,6 +35,6 @@ For example::
 * **threshold**: nodes with degree smaller than the threshold will not be shown.
     
 - **Buttons**:
-    - **S**: Save parameters of the current panel to a *\*.mat* file. The *\*.mat* can be further loaded for the panel or be used in a script processing.
-    - **L**: Load parameters from *\*.mat* for the current panel.
+    - **S**: Save parameters of the current panel to a :file:`\*.mat` file. The :file:`\*.mat` can be further loaded for the panel or be used in a script processing.
+    - **L**: Load parameters from :file:`\*.mat` for the current panel.
     - **?**: Help information.

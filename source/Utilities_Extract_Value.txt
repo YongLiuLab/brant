@@ -7,7 +7,7 @@ Extract Value
 * **data: matrix**
     * **symmetric matrix**: check to extract the upper right matrix's elements, uncheck to extract all elements
     * **corr mask**: e.g. a matrix mask used to find significant links instead of all links
-    * **roi info***: a *.csv* with at least one column start with "label"
+    * **roi info***: a :file:`.csv` with at least one column start with "label"
     * **id index**: identifier to find unique string for each subject
     * **filetype**: filetype
     * **data dir**: Input directories of matrices.
@@ -20,7 +20,7 @@ Extract Value
     * **id index**: identifier to find unique string for each subject
     * **filetype**: files in the filetype will be searched in input directories.
     * **4D nifti files**: if the input data is 4D, check this item. Otherwise uncheck.
-    * **input dirs**: directories can be input either using a *.txt* file or spm select window.
+    * **input dirs**: directories can be input either using a :file:`.txt` file or spm select window.
 	
 * **string removal***: optional. remove partial string from string parsed by id index.
 * **output as**: (only works for data type 'matrix') choose to output data matrix as ASCII(can be edited with text reader) or binary(more hard drive friendly with large matrix). if binary is chosen, you need to handle the matrix by::
@@ -32,6 +32,6 @@ Extract Value
 * **out dir**: output directory for saving results.
     
 - **Buttons**:
-    - **S**: Save parameters of the current panel to a *\*.mat* file. The *\*.mat* can be further loaded for the panel or be used in a script processing.
-    - **L**: Load parameters from *\*.mat* for the current panel.
+    - **S**: Save parameters of the current panel to a :file:`\*.mat` file. The :file:`\*.mat` can be further loaded for the panel or be used in a script processing.
+    - **L**: Load parameters from :file:`\*.mat` for the current panel.
     - **?**: Help information.

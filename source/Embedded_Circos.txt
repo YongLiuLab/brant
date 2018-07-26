@@ -4,9 +4,9 @@ Circos
 .. image:: _images/circos.png
    :align: right
      
-* **circos dir**: Path of unzipped circos folder. */circos_path/bin*
+* **circos dir**: Path of unzipped circos folder. :file:`/circos_path/bin`
 * **conf dir**: Path of circos configure file.
-* **roi info**: CSV table which defines sub-areas and lobes, there is an example in *brant-master/circos/brant_circos_3mm_273.csv*
+* **roi info**: CSV table which defines sub-areas and lobes, there is an example in :file:`brant-master/circos/brant_circos_3mm_273.csv`
 * There should be at least four columns in the table:
     * **label**: label of each sub-areas.
     * **module**: to which lobe/module does the sub-area belong.
@@ -16,7 +16,7 @@ Circos
 **Before using the function, please download and install circos 0.69 or higher.**
     
 - **Buttons**:
-    - **S**: Save parameters of the current panel to a *\*.mat* file. The *\*.mat* can be further loaded for the panel or be used in a script processing.
-    - **L**: Load parameters from *\*.mat* for the current panel.
+    - **S**: Save parameters of the current panel to a :file:`\*.mat` file. The :file:`\*.mat` can be further loaded for the panel or be used in a script processing.
+    - **L**: Load parameters from :file:`\*.mat` for the current panel.
     - **?**: Help information.
 	
