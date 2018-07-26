@@ -22,7 +22,7 @@ Denoise
 
       If the masks are stored as binarized value, the suggested method for reslice is nearest neighbour, otherwise 4th degree B-spline.
     
-    * **motion filetype**: BRANT will search estimated headmotion file in each subject's folder, normally by spm the file is *rp\*.txt*
+    * **motion filetype**: BRANT will search estimated headmotion file in each subject's folder, normally by spm the file is :file:`rp\*.txt`
 
 .. image:: _images/denoise_2.png
    :align: right
@@ -69,7 +69,7 @@ Denoise
     * **Filter only**: do only filter
     * **Run with and without GSR**: if checked and mask of global signal is specified, BRANT will run selected process twice with and without global signal as regressor in T, and output to different file in the current and following processes.
     * **Save only last results**: if checked, no middle files will be saved.
-    * **Output to *.gz format**: check to output to *\*.gz* files (note that the following smooth process from SPM would require uncompressed files, if it's checked, an error will occur in smooth); choolse if smooth is done beforehand or not required.
+    * **Output to *.gz format**: check to output to :file:`\*.gz` files (note that the following smooth process from SPM would require uncompressed files, if it's checked, an error will occur in smooth); choolse if smooth is done beforehand or not required.
     * **multi-regression prefix**: prefix for output of GLM
     * **filter prefix**: prefix for output of filter
 

@@ -20,7 +20,7 @@ Since in practice raw MRI data exported from an MR scanner consists of a large n
     * **id index**: identifier to find unique string for each subject
     * **filetype**: files in the filetype will be searched in input directories.
     * **4D nifti files**: if the input data is 4D, check this item. Otherwise uncheck.
-    * **input dirs**: directories can be input either using a *.txt* file or spm select window.
+    * **input dirs**: directories can be input either using a :file:`\*.txt` file or spm select window.
     * **delete first N timepoints**: delete heading fMRI volumes.
     * **output fn**: output filename.
     * **output to another directory**: output data to another directory

@@ -10,7 +10,7 @@ Diffusion Kit
 * **id index**: identifier to find unique string for each subject
 * **filetype**: files in the filetype will be searched in input directories.
 * **4D nifti files**: if the input data is 4D, check this item. Otherwise uncheck.
-* **input dirs**: directories can be input either using a *.txt* file or spm select window.
+* **input dirs**: directories can be input either using a :file:`\*.txt` file or spm select window.
     
 * **Choose below options to perform in each directory.**
 

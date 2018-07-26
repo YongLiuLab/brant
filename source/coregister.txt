@@ -10,9 +10,9 @@ Coregister
         * **options**:
             1: segment using new segment and bet based on tissue probability maps;
 
-            2: bet only (there should be segmented *c1-c3\*.nii* files in the directory);
+            2: bet only (there should be segmented :file:`c1-c3\*.nii` files in the directory);
 
-            other number: do not segment nor bet; we recommend using *co\*.nii* instead of *bet\*.nii* to normalise.
+            other number: do not segment nor bet; we recommend using :file:`co\*.nii` instead of :file:`bet\*.nii` to normalise.
 
 .. image:: _images/coregister.png
    :align: right

@@ -3,7 +3,7 @@ Normalize
 
     
 * **Subject info**:
-    * **source**: Filetype of images for normalization are stored. Default is the *mean\*.nii* generated from realign. Users can also change it to T1/T2 structural image of each subject stored in each subject's folder. If Coregister is checked, remember to add prefix of Coregister to the source filetype and change to template to the same modality of source.
+    * **source**: Filetype of images for normalization are stored. Default is the :file:`mean\*.nii` generated from realign. Users can also change it to T1/T2 structural image of each subject stored in each subject's folder. If Coregister is checked, remember to add prefix of Coregister to the source filetype and change to template to the same modality of source.
     * **weight**: weighting image of the template.
 
 .. image:: _images/normalise.png
