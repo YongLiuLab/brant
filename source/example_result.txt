@@ -11,12 +11,12 @@ No significant differences (P>0.05) of age (two-tailed two sample t-test), gende
 
 We have listed the differences among BRANT and other Matlab-based toolboxes in `FAQs`_. We can also find that t-statistic maps of fALFF, ReHo and results of FCs (P<0.001, uncorrected) based on different toolkits have quite similar patterns, which suggest BRANT is another optimal toolkit for rs-fMRI research community.
 
-.. figure:: _images/result2.tif
+.. figure:: _images/result2.png
    :align: center
    
    fig.1 T-statistic maps of fALFF and ReHo based on different toolkits
    
-.. figure:: _images/result3.tif
+.. figure:: _images/result3.png
    :align: center
    
    fig.1 results of FCs based on different toolkits

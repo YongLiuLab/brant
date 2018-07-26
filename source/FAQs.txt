@@ -86,7 +86,7 @@ Compared with DPABI v2.3, GRETNA v2.0.0 and CONN v17.f, the differences are list
 
 In conclusion, BRANT can directly support *.gz for most postprocessing functions, use OPENCL-based parallel computing for time consuming FCD/FCS calculation to save time. Other than focusing on several specific types of rs-fMRI data processing, functions of BRANT cover a wide range of rs-fMRI data processing methods. Also, GUIs are created automatically with a few lines of MATLAB code instead of drawn manually.
 	
-.. figure:: _images/result1.tif
+.. figure:: _images/result1.png
    :align: center
    
    fig.1 differences among four Matlab-based toolboxes
