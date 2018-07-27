@@ -45,7 +45,7 @@ Functional connectivity strength (FCS) measures the amount of information a node
      * *fcs_sum_nor*: fcs_sum(Raw) divided by mean value of fcs_sum(Raw)
      * *fcs_ave_nor*: fcs_ave(Raw) divided by mean value of fcs_ave(Raw)
     
-- **Reference**:
+- **References**:
 1. Tomasi, D., & Volkow, N. D. (2010). Functional connectivity density mapping. *Proceedings of the National Academy of Sciences of the United States of America*, 107(21), 9885-90.
 
 2. Craddock R, Clark D. Optimized implementations of voxel-wise degree centrality and local functional connectivity density mapping in AFNI. *GigaScience 2016*; 5(suppl_1): 4-6.

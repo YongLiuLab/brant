@@ -20,7 +20,7 @@ Influenced by the magnetic field inhomogeneity at air-tissue interfaces, rs-fMRI
     - **?**: Help information.
     
 
-* **Reference**:
+* **References**:
 1. Tomasi D, Volkow ND. Functional connectivity density mapping. *Proceedings of the National Academy of Sciences of the United States of America 2010*; 107(21): 9885-90.
 
 2. Yeo BT, Krienen FM, Sepulcre J, Sabuncu MR, Lashkari D, Hollinshead M, et al. The organization of the human cerebral cortex estimated by intrinsic functional connectivity. *J Neurophysiol 2011*; 106(3): 1125-65.

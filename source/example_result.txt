@@ -26,7 +26,7 @@ We have listed the differences among BRANT and other Matlab-based toolboxes in `
 .. _`FAQs`: FAQs.html#what-is-brant-s-advantage-compared-with-other-matlab-based-toolboxes
 
 
-* **Reference**:
+* **References**:
 1. Yan CG, Wang XD, Zuo XN, Zang YF. DPABI: Data Processing & Analysis for (Resting-State) Brain Imaging. *Neuroinformatics 2016*; 14(3): 339-51.
 
 2. Wang J, Wang X, Xia M, Liao X, Evans A, He Y. GRETNA: a graph theoretical network analysis toolbox for imaging connectomics. *Front Hum Neurosci 2015*; 9: 386.
