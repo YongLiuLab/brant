@@ -22,3 +22,9 @@ ALFF is calculated as the amplitude of the time series in a certain frequency ba
    - **S**: Save parameters of the current panel to a :file:`\*.mat` file. The :file:`\*.mat` can be further loaded for the panel or be used in a script processing.
    - **L**: Load parameters from :file:`\*.mat` for the current panel.
    - **?**: Help information.
+
+   
+* **Reference**:
+1. Zang YF, He Y, Zhu CZ, Cao QJ, Sui MQ, Liang M, et al. Altered baseline brain activity in children with ADHD revealed by resting-state functional MRI. *Brain & development 2007*; 29(2): 83-91.
+
+2. Zou QH, Zhu CZ, Yang Y, Zuo XN, Long XY, Cao QJ, et al. An improved approach to detection of amplitude of low-frequency fluctuation (ALFF) for resting-state fMRI: fractional ALFF. *J Neurosci Methods 2008*; 172(1): 137-41.

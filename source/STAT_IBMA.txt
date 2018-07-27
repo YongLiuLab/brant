@@ -57,7 +57,7 @@ With statistical maps of different datasets tested using same analysis pipeline,
 1. Stouffer's z-score
     Stouffer, S.A., Suchman, E.A., DeVinney, L.C., Star, S.A. and Williams Jr, R.M., 1949. *The American soldier: Adjustment during army life.(Studies in social psychology in World War II), Vol. 1*. Princeton University Press, Princeton,.
 2. Fisher
-    Fisher, R.A. (1925). *Statistical Methods for Research Workers.* Oliver and Boyd (Edinburgh). ISBN 0-05-002170-2.
+    Fisher, R.A. (1925). Statistical Methods for Research Workers. *Oliver and Boyd (Edinburgh)*. ISBN 0-05-002170-2.
 3. Fixed/mixed Effects Model
     Hedges, L.V. (1992). Meta-Analysis. *Journal of Educational and Behavioral Statistics.* 17(4), 279-296. doi: 10.3102/10769986017004279.
 
@@ -66,5 +66,9 @@ With statistical maps of different datasets tested using same analysis pipeline,
     Worsley, K.J., and Friston, K.J. (2000). A test for a conjunction. *Statistics & Probability Letters.* 47(2), 135-140. doi: 10.1016/S0167-7152(99)00149-2.
 5. Nichols's method
     Nichols, T., Brett, M., Andersson, J., Wager, T., and Poline, J.B. (2005). Valid conjunction inference with the minimum statistic. *Neuroimage.* 25(3), 653-660. doi: 10.1016/j.neuroimage.2004.12.005.
+6. Salimi-Khorshidi G, Smith SM, Keltner JR, Wager TD, Nichols TE. Meta-analysis of neuroimaging data: a comparison of image-based and coordinate-based pooling of studies. *Neuroimage 2009*; 45(3): 810-23.
+7. Benjamini Y, Hochberg Y. Controlling the False Discovery Rate - a Practical and Powerful Approach to Multiple Testing. J Roy Stat Soc B Met 1995; 57(1): 289-300.
+8. Benjamini Y, Yekutieli D. The control of the false discovery rate in multiple testing under dependency. Ann Stat 2001; 29(4): 1165-88.
+9. Lazar NA, Luna B, Sweeney JA, Eddy WF. Combining brains: a survey of methods for statistical pooling of information. *Neuroimage 2002*; 16(2): 538-50.
 
 	

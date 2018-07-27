@@ -36,3 +36,7 @@ Head motion has been found having an impact on rs-fMRI signals. In preprocessing
     * **L**: Load parameters from :file:`\*.mat` for the current panel.
     * **?**: Help information.
     
+* **Reference**:
+1. Van Dijk KR, Sabuncu MR, Buckner RL. The influence of head motion on intrinsic functional connectivity MRI. *Neuroimage 2012*; 59(1): 431-8.
+
+2. Power JD, Barnes KA, Snyder AZ, Schlaggar BL, Petersen SE. Spurious but systematic correlations in functional connectivity MRI networks arise from subject motion. *Neuroimage 2012*; 59(3): 2142-54.

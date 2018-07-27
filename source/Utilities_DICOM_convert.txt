@@ -30,3 +30,6 @@ Since in practice raw MRI data exported from an MR scanner consists of a large n
     - **L**: Load parameters from :file:`\*.mat` for the current panel.
     - **?**: Help information.
     
+	
+* **Reference**:
+1. Rorden C, Brett M. Stereotaxic display of brain lesions. *Behav Neurol 2000*; 12(4): 191-200.

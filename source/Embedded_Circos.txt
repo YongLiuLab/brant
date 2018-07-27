@@ -20,3 +20,10 @@ Circos
     - **L**: Load parameters from :file:`\*.mat` for the current panel.
     - **?**: Help information.
 	
+	
+* **Reference**:
+1. Krzywinski M, Schein J, Birol I, Connors J, Gascoyne R, Horsman D, et al. Circos: an information aesthetic for comparative genomics. *Genome Res 2009*; 19(9): 1639-45.
+
+2. Irimia A, Chambers MC, Torgerson CM, Van Horn JD. Circular representation of human cortical networks for subject and population-level connectomic visualization. *Neuroimage 2012*; 60(2): 1340-51.
+
+3. Fan L, Li H, Zhuo J, Zhang Y, Wang J, Chen L, et al. The Human Brainnetome Atlas: A New Brain Atlas Based on Connectional Architecture. *Cereb Cortex 2016*; 26(8): 3508-26.

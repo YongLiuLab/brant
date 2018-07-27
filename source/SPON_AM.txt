@@ -22,3 +22,6 @@ AM is calculated as the average amplitude and the standard deviation of the mean
    - **S**: Save parameters of the current panel to a :file:`\*.mat` file. The :file:`\*.mat` can be further loaded for the panel or be used in a script processing.
    - **L**: Load parameters from :file:`\*.mat` for the current panel.
    - **?**: Help information.
+   
+* **Reference**:
+1. Liu Y, Yu C, Zhang X, Liu J, Duan Y, Alexander-Bloch AF, et al. Impaired long distance functional connectivity and weighted network architecture in Alzheimer's disease. *Cereb Cortex 2014*; 24(6): 1422-35.

@@ -1,7 +1,7 @@
 TSNR (Temporal Signal to Noise Ratio)
 ---------------------------------------------------
 
-Influenced by the magnetic field inhomogeneity at air-tissue interfaces, rs-fMRI signals at orbitofrontal and temporal medial and polar areas suffer from a certain degree of distortions and signal loss. To exclude spurious voxels, we use the thresholded voxel-wise TSNR, which is calculated as the average intensity of time series divided ty the standart deviation, to generate subject-level or group-leval whole-brain mask.
+Influenced by the magnetic field inhomogeneity at air-tissue interfaces, rs-fMRI signals at orbitofrontal and temporal medial and polar areas suffer from a certain degree of distortions and signal loss. To exclude spurious voxels, we use the thresholded voxel-wise TSNR, which is calculated as the average intensity of time series divided ty the standard deviation, to generate subject-level or group-leval whole-brain mask.
   
 .. image:: _images/tsnr_new.png
    :align: right
@@ -19,3 +19,10 @@ Influenced by the magnetic field inhomogeneity at air-tissue interfaces, rs-fMRI
     - **L**: Load parameters from :file:`\*.mat` for the current panel.
     - **?**: Help information.
     
+
+* **Reference**:
+1. Tomasi D, Volkow ND. Functional connectivity density mapping. *Proceedings of the National Academy of Sciences of the United States of America 2010*; 107(21): 9885-90.
+
+2. Yeo BT, Krienen FM, Sepulcre J, Sabuncu MR, Lashkari D, Hollinshead M, et al. The organization of the human cerebral cortex estimated by intrinsic functional connectivity. *J Neurophysiol 2011*; 106(3): 1125-65.
+
+3. Welvaert M, Rosseel Y. On the definition of signal-to-noise ratio and contrast-to-noise ratio for FMRI data. *PLoS One 2013*; 8(11): e77089.

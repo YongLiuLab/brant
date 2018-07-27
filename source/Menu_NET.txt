@@ -6,6 +6,8 @@
 NET
 ===================================
 
+Network metrics depict the properties of information flow among predefined nodes. Regarding brain networks, ROIs are defined as nodes and the connections between pairs of ROIs are defined as edges. In the current module, connectivity matrices are firstly thresholded by intensity or sparsity to weighted or binary networks.For group comparisons under a vector of thresholds, Student’s t-tests are provided.
+
 .. toctree::
    :maxdepth: 2
 

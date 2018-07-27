@@ -8,12 +8,12 @@ Network Calculation
 * **filetype**: files in the filetype will be searched in input directories.
 * **data dir**: directory where all :file:`\*.txt` correlation matrix results are stored.
     
-* **matrix type**:
+* **use absolute value of input matrics**:
     * **raw value**: use raw value to construct binary matrix.
     * **absolute value**: use absolute value to construct binary matrix.
 	
 * **intensity threshold**: vector of thresholds for matrix intensity. e.g. correlation coefficient
-* **thresholds of sparsity**: a vector of sparsity threshold, for each element, threshold the input matrix using the fraction of the matrix's largest number of connection n*(n+1)/2;
+* **sparsity threshold**: a vector of sparsity threshold, for each element, threshold the input matrix using the fraction of the matrix's largest number of connection n*(n+1)/2;
     
 * **minimum spanning tree**: a process to avoid unconnected network. To label the backbone of the network's nodes.
     
@@ -28,3 +28,7 @@ Network Calculation
     - **S**: Save parameters of the current panel to a :file:`\*.mat` file. The :file:`\*.mat` can be further loaded for the panel or be used in a script processing.
     - **L**: Load parameters from :file:`\*.mat` for the current panel.
     - **?**: Help information.
+	
+* **Reference**:
+1. Rubinov M, Sporns O. Complex network measures of brain connectivity: uses and interpretations. *Neuroimage 2010*; 52(3): 1059-69.
+

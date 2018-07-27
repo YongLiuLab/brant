@@ -20,3 +20,7 @@ ReHo is calculated as the Kendall's coefficient of concordance (KCC) among a see
    - **S**: Save parameters of the current panel to a :file:`\*.mat` file. The :file:`\*.mat` can be further loaded for the panel or be used in a script processing.
    - **L**: Load parameters from :file:`\*.mat` for the current panel.
    - **?**: Help information.
+
+   
+* **Reference**:
+1. Zang Y, Jiang T, Lu Y, He Y, Tian L. Regional homogeneity approach to fMRI data analysis. *Neuroimage 2004*; 22(1): 394-400.

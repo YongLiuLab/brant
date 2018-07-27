@@ -24,3 +24,29 @@ We have listed the differences among BRANT and other Matlab-based toolboxes in `
 .. _`online`: https://github.com/yongliulab
 
 .. _`FAQs`: FAQs.html#what-is-brant-s-advantage-compared-with-other-matlab-based-toolboxes
+
+
+* **Reference**:
+1. Yan CG, Wang XD, Zuo XN, Zang YF. DPABI: Data Processing & Analysis for (Resting-State) Brain Imaging. *Neuroinformatics 2016*; 14(3): 339-51.
+
+2. Wang J, Wang X, Xia M, Liao X, Evans A, He Y. GRETNA: a graph theoretical network analysis toolbox for imaging connectomics. *Front Hum Neurosci 2015*; 9: 386.
+
+3. Whitfield-Gabrieli S, Nieto-Castanon A. Conn: a functional connectivity toolbox for correlated and anticorrelated brain networks. *Brain Connect 2012*; 2(3): 125-41.
+
+4. Zuo XN, Kelly C, Di Martino A, Mennes M, Margulies DS, Bangaru S, et al. Growing together and growing apart: regional and sex differences in the lifespan developmental trajectories of functional homotopy. *J Neurosci 2010*; 30(45): 15034-43.
+
+5. Liu Y, Yu C, Zhang X, Liu J, Duan Y, Alexander-Bloch AF, et al. Impaired long distance functional connectivity and weighted network architecture in Alzheimer's disease. *Cereb Cortex 2014*; 24(6): 1422-35.
+
+6. He X, Qin W, Liu Y, Zhang X, Duan Y, Song J, et al. Abnormal salience network in normal aging and in amnestic mild cognitive impairment and Alzheimer's disease. *Human brain mapping 2014*; 35(7): 3446-64.
+
+7. Liu J, Zhang X, Yu C, Duan Y, Zhuo J, Cui Y, et al. Impaired Parahippocampus Connectivity in Mild Cognitive Impairment and Alzheimer's Disease. *J Alzheimers Dis 2016*; 49(4): 1051-64.
+
+8. McKhann G, Drachman D, Folstein M, Katzman R, Price D, Stadlan EM. Clinical diagnosis of Alzheimer's disease: report of the NINCDS-ADRDA Work Group under the auspices of Department of Health and Human Services Task Force on Alzheimer's Disease. *Neurology 1984*; 34(7): 939-44.
+
+9. Morris JC. The Clinical Dementia Rating (CDR): current version and scoring rules. *Neurology 1993*; 43(11): 2412-4.
+
+10. Petersen RC, Smith GE, Waring SC, Ivnik RJ, Tangalos EG, Kokmen E. Mild cognitive impairment: clinical characterization and outcome. *Arch Neurol 1999*; 56(3): 303-8.
+
+11. Petersen RC, Doody R, Kurz A, Mohs RC, Morris JC, Rabins PV, et al. Current concepts in mild cognitive impairment. *Arch Neurol 2001*; 58(12): 1985-92.
+
+12. Choo IH, Lee DY, Youn JC, Jhoo JH, Kim KW, Lee DS, et al. Topographic patterns of brain functional impairment progression according to clinical severity staging in 116 Alzheimer disease patients: FDG-PET study. *Alzheimer Dis Assoc Disord 2007*; 21(2): 77-84.
