@@ -12,6 +12,7 @@ How can I Download and Install BRANT
     http://circos.ca/distribution/circos-0.69-5.tgz
 	
 * Unzip the *brant-master.zip* file and move both brant and spm12 folders to :file:`/path/of/toolbox`. (The path can be anywhere in your computer as long as it's in English)
+
 * Configure SPM paths: 
 
   1. Click *Set Path* in MATLAB
@@ -20,7 +21,7 @@ How can I Download and Install BRANT
   
   3. Select SPM's root folder
   
-  4. Run *spm fmri* in MATLAB's Command Window to let spm add its subfolders. (Note that some SPM's subfolders are called internally in SPM and should not be added in MATLAB's search path. Scripts in those folders are conflicting with MATLAB functions, and could cause untraceable errors)
+  4. Run ``spm fmri`` in MATLAB's Command Window to let spm add its subfolders. (Note that some SPM's subfolders are called internally in SPM and should not be added in MATLAB's search path. Scripts in those folders are conflicting with MATLAB functions, and could cause untraceable errors)  
   
 * Configure BRANT paths: 
 
@@ -35,9 +36,9 @@ How can I Download and Install BRANT
 .. tip::
         * An alternative way to configure both SPM and BRANT Paths:
 	    * Run in MATLAB's Command Window:
-	    * *cd('/path/of/unzipped/brant/');* to set current working directory to the unzipped brant
-	    * *brant_configure_paths;* to do *add with subfolders* for BRANT
-	    * *brant_configure_paths('/path/of/spm12/');* to add SPM's paths
+	        * ``cd('/path/of/unzipped/brant/');`` % to set current working directory to the unzipped brant
+	        * ``brant_configure_paths;`` % to add BRANT paths (same as *add with subfolders*)
+	        * ``brant_configure_paths('/path/of/spm12/');`` % to add SPM paths
 
 
 What is BRANT's Advantage Compared with Other Matlab-based Toolboxes
