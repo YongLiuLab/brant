@@ -15,7 +15,7 @@ Publications using Brant
 
 [7] Y. Zhang, X. Liu, K. Zhao, L. Li, and Y. Ding, `“Study of altered functional connectivity in individuals at risk for Alzheimer’s Disease.,”`_ *Technol Health Care*, vol. 26, no. S1, pp. 103–111, 2018.
 
-[8] C. de Vries, R. T. Staff, G. D. Waiter, M. O. Sokunbi, A. L. Sandu, and A. D. Murray, `“Motion during Acquisition is Associated with fMRI Brain Entropy,”`_ *IEEE Journal of Biomedical and Health Informatics*, pp. 1–1, 2019.
+[8] C. Vries, R. T. Staff, G. D. Waiter, M. O. Sokunbi, A. L. Sandu, and A. D. Murray, `“Motion during Acquisition is Associated with fMRI Brain Entropy,”`_ *IEEE Journal of Biomedical and Health Informatics*, pp. 1–1, 2019.
 
 [9] J. Li et al., `“ASAF: altered spontaneous activity fingerprinting in Alzheimer’s disease based on multisite fMRI,”`_ *Science Bulletin*, Apr. 2019.
 
