@@ -45,5 +45,7 @@ Functions of BRANT are arranged into 7 modules, which are preprocessing, functio
    
    Menu_Contact
    
+   Publications_using_Brant
+   
 .. _`online`: https://www.frontiersin.org/articles/10.3389/fninf.2018.00052
  
