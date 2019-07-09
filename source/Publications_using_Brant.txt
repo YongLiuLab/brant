@@ -15,6 +15,9 @@ Publications using Brant
 
 7. C. de Vries, R. T. Staff, G. D. Waiter, M. O. Sokunbi, A. L. Sandu, and A. D. Murray, `“Motion during Acquisition is Associated with fMRI Brain Entropy,”`_ *IEEE Journal of Biomedical and Health Informatics*, pp. 1–1, 2019.
 
+8. N. Luo et al., `“Brain function, structure and genomic data are linked but show different sensitivity to duration of illness and disease stage in schizophrenia.,”`_ *Neuroimage Clin*, vol. 23, pp. 101887–101887, 2019.
+
+
 .. _`“Regional homogeneity and functional connectivity patterns in major depressive disorder, cognitive vulnerability to depression and healthy subjects,”`: https://www.sciencedirect.com/science/article/pii/S0165032717325107
 
 .. _`“Attention Performance Measured by Attention Network Test Is Correlated with Global and Regional Efficiency of Structural Brain Networks,”`: https://www.frontiersin.org/articles/10.3389/fnbeh.2016.00194/full
@@ -28,3 +31,5 @@ Publications using Brant
 .. _`“Altered Intranetwork and Internetwork Functional Connectivity in Type 2 Diabetes Mellitus With and Without Cognitive Impairment,”`: https://www.nature.com/articles/srep32980
 
 .. _`“Motion during Acquisition is Associated with fMRI Brain Entropy,”`: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8678816
+
+.. _`“Brain function, structure and genomic data are linked but show different sensitivity to duration of illness and disease stage in schizophrenia.,”`: https://europepmc.org/articles/pmc6558215
