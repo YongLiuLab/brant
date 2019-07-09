@@ -1,25 +1,25 @@
 Publications using Brant
 --------------------------------------------
 
-1. Y. Wang et al., `“Using Regional Homogeneity to Reveal Altered Spontaneous Activity in Patients with Mild Cognitive Impairment,”`_ *BioMed Research International*, vol. 2015, pp. 1–8, 2015.
+[1] Y. Wang et al., `“Using Regional Homogeneity to Reveal Altered Spontaneous Activity in Patients with Mild Cognitive Impairment,”`_ *BioMed Research International*, vol. 2015, pp. 1–8, 2015.
 
-2. S. Peeters et al., `“Reduced specialized processing in psychotic disorder: a graph theoretical analysis of cerebral functional connectivity,”`_ *Brain Behav*, vol. 6, no. 9, p. e00508, 2016.
+[2] S. Peeters et al., `“Reduced specialized processing in psychotic disorder: a graph theoretical analysis of cerebral functional connectivity,”`_ *Brain Behav*, vol. 6, no. 9, p. e00508, 2016.
 
-3. M. Xiao et al., `“Attention Performance Measured by Attention Network Test Is Correlated with Global and Regional Efficiency of Structural Brain Networks,”`_ *Front. Behav. Neurosci.*, vol. 10, 2016.
+[3] M. Xiao et al., `“Attention Performance Measured by Attention Network Test Is Correlated with Global and Regional Efficiency of Structural Brain Networks,”`_ *Front. Behav. Neurosci.*, vol. 10, 2016.
 
-4. S. Yang et al., `“Altered Intranetwork and Internetwork Functional Connectivity in Type 2 Diabetes Mellitus With and Without Cognitive Impairment,”`_ *Sci Rep*, vol. 6, no. 1, p. 32980, Dec. 2016.
+[4] S. Yang et al., `“Altered Intranetwork and Internetwork Functional Connectivity in Type 2 Diabetes Mellitus With and Without Cognitive Impairment,”`_ *Sci Rep*, vol. 6, no. 1, p. 32980, Dec. 2016.
 
-5. R. Pang et al., `“Altered Regional Homogeneity in Chronic Insomnia Disorder with or without Cognitive Impairment,”`_ *AJNR Am J Neuroradiol*, vol. 39, no. 4, pp. 742–747, Apr. 2018.
+[5] R. Pang et al., `“Altered Regional Homogeneity in Chronic Insomnia Disorder with or without Cognitive Impairment,”`_ *AJNR Am J Neuroradiol*, vol. 39, no. 4, pp. 742–747, Apr. 2018.
 
-6. H. Sun et al., `“Regional homogeneity and functional connectivity patterns in major depressive disorder, cognitive vulnerability to depression and healthy subjects,”`_ *Journal of Affective Disorders*, vol. 235, pp. 229–235, Aug. 2018.
+[6] H. Sun et al., `“Regional homogeneity and functional connectivity patterns in major depressive disorder, cognitive vulnerability to depression and healthy subjects,”`_ *Journal of Affective Disorders*, vol. 235, pp. 229–235, Aug. 2018.
 
-7. Y. Zhang, X. Liu, K. Zhao, L. Li, and Y. Ding, `“Study of altered functional connectivity in individuals at risk for Alzheimer’s Disease.,”`_ *Technol Health Care*, vol. 26, no. S1, pp. 103–111, 2018.
+[7] Y. Zhang, X. Liu, K. Zhao, L. Li, and Y. Ding, `“Study of altered functional connectivity in individuals at risk for Alzheimer’s Disease.,”`_ *Technol Health Care*, vol. 26, no. S1, pp. 103–111, 2018.
 
-8. C. de Vries, R. T. Staff, G. D. Waiter, M. O. Sokunbi, A. L. Sandu, and A. D. Murray, `“Motion during Acquisition is Associated with fMRI Brain Entropy,”`_ *IEEE Journal of Biomedical and Health Informatics*, pp. 1–1, 2019.
+[8] C. de Vries, R. T. Staff, G. D. Waiter, M. O. Sokunbi, A. L. Sandu, and A. D. Murray, `“Motion during Acquisition is Associated with fMRI Brain Entropy,”`_ *IEEE Journal of Biomedical and Health Informatics*, pp. 1–1, 2019.
 
-9. J. Li et al., `“ASAF: altered spontaneous activity fingerprinting in Alzheimer’s disease based on multisite fMRI,”`_ *Science Bulletin*, Apr. 2019.
+[9] J. Li et al., `“ASAF: altered spontaneous activity fingerprinting in Alzheimer’s disease based on multisite fMRI,”`_ *Science Bulletin*, Apr. 2019.
 
-10. N. Luo et al., `“Brain function, structure and genomic data are linked but show different sensitivity to duration of illness and disease stage in schizophrenia.,”`_ *Neuroimage Clin*, vol. 23, pp. 101887–101887, 2019.
+[10] N. Luo et al., `“Brain function, structure and genomic data are linked but show different sensitivity to duration of illness and disease stage in schizophrenia.,”`_ *Neuroimage Clin*, vol. 23, pp. 101887–101887, 2019.
 
 
 
