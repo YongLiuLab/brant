@@ -3,7 +3,7 @@ Publications using Brant
 
 1. Y. Wang et al., `“Using Regional Homogeneity to Reveal Altered Spontaneous Activity in Patients with Mild Cognitive Impairment,”`_ *BioMed Research International*, vol. 2015, pp. 1–8, 2015.
 
-2. S. C. T. Peeters et al., `“Reduced specialized processing in psychotic disorder: a graph theoretical analysis of cerebral functional connectivity,”`_ *Brain Behav*, vol. 6, no. 9, p. e00508, 2016.
+2. S. Peeters et al., `“Reduced specialized processing in psychotic disorder: a graph theoretical analysis of cerebral functional connectivity,”`_ *Brain Behav*, vol. 6, no. 9, p. e00508, 2016.
 
 3. M. Xiao et al., `“Attention Performance Measured by Attention Network Test Is Correlated with Global and Regional Efficiency of Structural Brain Networks,”`_ *Front. Behav. Neurosci.*, vol. 10, 2016.
 
