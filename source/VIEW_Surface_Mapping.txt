@@ -28,12 +28,10 @@ Besides shading each ROI/cluster, we can also project the voxel intensities to t
 * **colormap**: controls the colors used in displaying the surface
 * **surface**: surface file
 * **brain vol**: volume to map to the surface
-* **thr vol**: set the range to generate a mask for input volume.
-
+* **thr vol**: set the range to generate a mask for input volume, seperated by ','.
 e.g::
 
     thr vol: 1, 5, 9, 15
-    display volume from 1 to 5 and 9 to 15
     
 - **Buttons**:
     - **S**: Save parameters of the current panel to a :file:`\*.mat` file. The :file:`\*.mat` can be further loaded for the panel or be used in a script processing.
