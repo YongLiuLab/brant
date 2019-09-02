@@ -11,6 +11,7 @@ ALFF is calculated as the amplitude of the time series in a certain frequency ba
 * **filetype**: files in the filetype will be searched in input directories.
 * **4D nifti files**: if the input data is 4D, check this item. Otherwise uncheck.
 * **input dirs**: directories can be input either using a :file:`\*.txt` file or spm select window.
+* **time series**: choose the time series to calculate, seperated by ','.
     
 * **TR**: repetition time, used as sample frequency 1/TR to estimate width of frequency band.
 * **lower cutoff (Hz)**: lower cutoff for band pass filter.
