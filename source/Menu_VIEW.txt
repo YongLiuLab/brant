@@ -13,6 +13,8 @@ To visualize voxel intensities, we have implemented the *ROI Mapping* to extract
 
    VIEW_Surface_Mapping
 
+   VIEW_Slice_Mapping
+
    VIEW_ROI_Mapping
 
    VIEW_Network_Visualization
