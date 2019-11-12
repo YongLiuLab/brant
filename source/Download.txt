@@ -1,0 +1,41 @@
+Download
+--------------------------------------------
+* You can get the latest version of BRANT from
+    https://github.com/YongLiuLab/brant-stable/archive/master.zip
+	
+* Some functions are based on SPM, you can get it from
+    http://www.fil.ion.ucl.ac.uk/spm/software/spm12
+	
+* Circos in STEP 8 can be downloaded from
+    http://circos.ca/distribution/circos-0.69-5.tgz
+	
+* Unzip the *brant-master.zip* file and move both brant and spm12 folders to :file:`/path/of/toolbox`. (The path can be anywhere in your computer as long as it's in English)
+
+* Configure SPM paths: 
+
+  1. Click *Set Path* in MATLAB
+  
+  2. Click *add folder*
+  
+  3. Select SPM's root folder
+  
+  4. Run ``spm fmri`` in MATLAB's Command Window to let spm add its subfolders. (Note that some SPM's subfolders are called internally in SPM and should not be added in MATLAB's search path. Scripts in those folders are conflicting with MATLAB functions, and could cause untraceable errors)  
+  
+* Configure BRANT paths: 
+
+  1. Click *Set Path* in MATLAB
+  
+  2. Click *Add with subfolders*
+  
+  3. Select the unzipped BRANT folder
+  
+  4. Click *Save*.
+
+.. tip::
+        * An alternative way to configure both SPM and BRANT Paths:
+	    * Run in MATLAB's Command Window:
+	        * ``cd('/path/of/unzipped/brant/');`` % to set current working directory to the unzipped brant
+	        * ``brant_configure_paths;`` % to add BRANT paths (same as *add with subfolders*)
+	        * ``brant_configure_paths('/path/of/spm12/');`` % to add SPM paths
+
+
