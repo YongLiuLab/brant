@@ -1,4 +1,4 @@
-Diffusion Kit
+DiffusionKit
 ---------------
     
 *A batch processing GUI-interface for DiffusionKit*
