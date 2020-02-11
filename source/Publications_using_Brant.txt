@@ -2,7 +2,7 @@ Publications using Brant
 --------------------------------------------
 [12] Quan M, Zhao T, Tang Y, Luo P, Wang W, Qin Q, Li T, Wang Q, Fang J, Jia J. `“Effects of gene mutation and disease progression on representative neural circuits in familial Alzheimer's disease,”`_ *Alzheimers Res Ther*. 2020;12(1):14..
 
-[11] Zhu W, Huang H, Yang S, Luo X, Zhu W, Xu S, Meng Q, Zuo C, Zhao K, Liu H, Liu Y, Wang W.  `“Dysfunctional Architecture Underlines White Matter Hyperintensities with and without Cognitive Impairment,”`_ *J Alzheimers Dis*, 2019;71(2):461-76.
+[11] Zhu W, Huang H, Yang S, Luo X, Zhu W, Xu S, Meng Q, Zuo C, Zhao K, Liu H, Liu Y, Wang W. `“Dysfunctional Architecture Underlines White Matter Hyperintensities with and without Cognitive Impairment,”`_ *J Alzheimers Dis*, 2019;71(2):461-76.
 
 [10] C. Vries, R. T. Staff, G. D. Waiter, M. O. Sokunbi, A. L. Sandu, and A. D. Murray, `“Motion during Acquisition is Associated with fMRI Brain Entropy,”`_ *IEEE Journal of Biomedical and Health Informatics*, pp. 1–1, 2019.
 
