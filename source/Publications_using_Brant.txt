@@ -1,6 +1,8 @@
 Publications using Brant
 --------------------------------------------
-[11] Quan M, Zhao T, Tang Y, Luo P, Wang W, Qin Q, Li T, Wang Q, Fang J, Jia J. `“Effects of gene mutation and disease progression on representative neural circuits in familial Alzheimer's disease,”. Alzheimers Res Ther. 2020;12(1):14..
+[12] Quan M, Zhao T, Tang Y, Luo P, Wang W, Qin Q, Li T, Wang Q, Fang J, Jia J. `“Effects of gene mutation and disease progression on representative neural circuits in familial Alzheimer's disease,”. Alzheimers Res Ther. 2020;12(1):14..
+
+[11] Zhu W, Huang H, Yang S, Luo X, Zhu W, Xu S, Meng Q, Zuo C, Zhao K, Liu H, Liu Y, Wang W.  `“Dysfunctional Architecture Underlines White Matter Hyperintensities with and without Cognitive Impairment,”`_ *J Alzheimers Dis*, 2019;71(2):461-76.
 
 [10] C. Vries, R. T. Staff, G. D. Waiter, M. O. Sokunbi, A. L. Sandu, and A. D. Murray, `“Motion during Acquisition is Associated with fMRI Brain Entropy,”`_ *IEEE Journal of Biomedical and Health Informatics*, pp. 1–1, 2019.
 
@@ -25,7 +27,9 @@ Publications using Brant
 [1] Y. Wang et al., `“Using Regional Homogeneity to Reveal Altered Spontaneous Activity in Patients with Mild Cognitive Impairment,”`_ *BioMed Research International*, vol. 2015, pp. 1–8, 2015.
 
 
-`“Effects of gene mutation and disease progression on representative neural circuits in familial Alzheimer's disease,”:https://www.ncbi.nlm.nih.gov/pubmed/31937364
+.. _`“Effects of gene mutation and disease progression on representative neural circuits in familial Alzheimer's disease,”`: https://www.ncbi.nlm.nih.gov/pubmed/31937364
+
+.. `“Dysfunctional Architecture Underlines White Matter Hyperintensities with and without Cognitive Impairment,”`_: https://www.ncbi.nlm.nih.gov/pubmed/31403946
 
 .. _`“Regional homogeneity and functional connectivity patterns in major depressive disorder, cognitive vulnerability to depression and healthy subjects,”`: https://www.sciencedirect.com/science/article/pii/S0165032717325107
 
