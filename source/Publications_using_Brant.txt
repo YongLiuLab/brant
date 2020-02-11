@@ -29,7 +29,7 @@ Publications using Brant
 
 .. _`“Effects of gene mutation and disease progression on representative neural circuits in familial Alzheimer's disease,”`: https://www.ncbi.nlm.nih.gov/pubmed/31937364
 
-.. `“Dysfunctional Architecture Underlines White Matter Hyperintensities with and without Cognitive Impairment,”`: https://www.ncbi.nlm.nih.gov/pubmed/31403946
+.. _`“Dysfunctional Architecture Underlines White Matter Hyperintensities with and without Cognitive Impairment,”`: https://www.ncbi.nlm.nih.gov/pubmed/31403946
 
 .. _`“Regional homogeneity and functional connectivity patterns in major depressive disorder, cognitive vulnerability to depression and healthy subjects,”`: https://www.sciencedirect.com/science/article/pii/S0165032717325107
 
