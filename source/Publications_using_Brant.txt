@@ -1,7 +1,12 @@
 Publications using Brant
 --------------------------------------------
+[11] Quan M, Zhao T, Tang Y, Luo P, Wang W, Qin Q, Li T, Wang Q, Fang J, Jia J. `“Effects of gene mutation and disease progression on representative neural circuits in familial Alzheimer's disease,”. Alzheimers Res Ther. 2020;12(1):14..
 
-[1] Y. Wang et al., `“Using Regional Homogeneity to Reveal Altered Spontaneous Activity in Patients with Mild Cognitive Impairment,”`_ *BioMed Research International*, vol. 2015, pp. 1–8, 2015.
+[10] C. Vries, R. T. Staff, G. D. Waiter, M. O. Sokunbi, A. L. Sandu, and A. D. Murray, `“Motion during Acquisition is Associated with fMRI Brain Entropy,”`_ *IEEE Journal of Biomedical and Health Informatics*, pp. 1–1, 2019.
+
+[9] J. Li et al., `“ASAF: altered spontaneous activity fingerprinting in Alzheimer’s disease based on multisite fMRI,”`_ *Science Bulletin*, Apr. 2019.
+
+[8] N. Luo et al., `“Brain function, structure and genomic data are linked but show different sensitivity to duration of illness and disease stage in schizophrenia.,”`_ *Neuroimage Clin*, vol. 23, pp. 101887–101887, 2019.[1] Y. Wang et al., `“Using Regional Homogeneity to Reveal Altered Spontaneous Activity in Patients with Mild Cognitive Impairment,”`_ *BioMed Research International*, vol. 2015, pp. 1–8, 2015.
 
 [2] S. Peeters et al., `“Reduced specialized processing in psychotic disorder: a graph theoretical analysis of cerebral functional connectivity,”`_ *Brain Behav*, vol. 6, no. 9, p. e00508, 2016.
 
@@ -15,16 +20,11 @@ Publications using Brant
 
 [7] Y. Zhang, X. Liu, K. Zhao, L. Li, and Y. Ding, `“Study of altered functional connectivity in individuals at risk for Alzheimer’s Disease.,”`_ *Technol Health Care*, vol. 26, no. S1, pp. 103–111, 2018.
 
-[8] C. Vries, R. T. Staff, G. D. Waiter, M. O. Sokunbi, A. L. Sandu, and A. D. Murray, `“Motion during Acquisition is Associated with fMRI Brain Entropy,”`_ *IEEE Journal of Biomedical and Health Informatics*, pp. 1–1, 2019.
-
-[9] J. Li et al., `“ASAF: altered spontaneous activity fingerprinting in Alzheimer’s disease based on multisite fMRI,”`_ *Science Bulletin*, Apr. 2019.
-
-[10] N. Luo et al., `“Brain function, structure and genomic data are linked but show different sensitivity to duration of illness and disease stage in schizophrenia.,”`_ *Neuroimage Clin*, vol. 23, pp. 101887–101887, 2019.
 
 
 
 
-
+`“Effects of gene mutation and disease progression on representative neural circuits in familial Alzheimer's disease,”:https://www.ncbi.nlm.nih.gov/pubmed/31937364
 
 .. _`“Regional homogeneity and functional connectivity patterns in major depressive disorder, cognitive vulnerability to depression and healthy subjects,”`: https://www.sciencedirect.com/science/article/pii/S0165032717325107
 
