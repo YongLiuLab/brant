@@ -1,52 +1,64 @@
 Publications using Brant
 --------------------------------------------
-[12] Quan M, Zhao T, Tang Y, Luo P, Wang W, Qin Q, Li T, Wang Q, Fang J, Jia J. `“Effects of gene mutation and disease progression on representative neural circuits in familial Alzheimer's disease,”`_ *Alzheimers Res Ther*. 2020;12(1):14..
+[15] Z. Zhou et al., `"A toolbox for brain network construction and classification (BrainNetClass),"`_ *Human Brain Mapping*, p. hbm.24979, Mar. 2020
 
-[11] Zhu W, Huang H, Yang S, Luo X, Zhu W, Xu S, Meng Q, Zuo C, Zhao K, Liu H, Liu Y, Wang W. `“Dysfunctional Architecture Underlines White Matter Hyperintensities with and without Cognitive Impairment,”`_ *J Alzheimers Dis*, 2019;71(2):461-76.
+[14] T. Liebe, J. Kaufmann, M. Li, M. Skalej, G. Wagner, and M. Walter, `"In vivo anatomical mapping of human locus coeruleus functional connectivity at 3 T MRI,"`_ *Human Brain Mapping*, p. hbm.24935, Jan. 2020.
 
-[10] C. Vries, R. T. Staff, G. D. Waiter, M. O. Sokunbi, A. L. Sandu, and A. D. Murray, `“Motion during Acquisition is Associated with fMRI Brain Entropy,”`_ *IEEE Journal of Biomedical and Health Informatics*, pp. 1–1, 2019.
+[13] A. Li et al., `"A neuroimaging biomarker for striatal dysfunction in schizophrenia,"`_ *Nature Medicine*, Mar. 2020.
 
-[9] J. Li et al., `“ASAF: altered spontaneous activity fingerprinting in Alzheimer’s disease based on multisite fMRI,”`_ *Science Bulletin*, Apr. 2019.
+[12] Quan M, Zhao T, Tang Y, Luo P, Wang W, Qin Q, Li T, Wang Q, Fang J, Jia J. `"Effects of gene mutation and disease progression on representative neural circuits in familial Alzheimer's disease,"`_ *Alzheimers Res Ther*. 2020;12(1):14.
 
-[8] N. Luo et al., `“Brain function, structure and genomic data are linked but show different sensitivity to duration of illness and disease stage in schizophrenia.,”`_ *Neuroimage Clin*, vol. 23, pp. 101887–101887, 2019.
+[11] Zhu W, Huang H, Yang S, Luo X, Zhu W, Xu S, Meng Q, Zuo C, Zhao K, Liu H, Liu Y, Wang W. `"Dysfunctional Architecture Underlines White Matter Hyperintensities with and without Cognitive Impairment,"`_ *J Alzheimers Dis*, 2019;71(2):461-76.
 
-[7] R. Pang et al., `“Altered Regional Homogeneity in Chronic Insomnia Disorder with or without Cognitive Impairment,”`_ *AJNR Am J Neuroradiol*, vol. 39, no. 4, pp. 742–747, Apr. 2018.
+[10] C. Vries, R. T. Staff, G. D. Waiter, M. O. Sokunbi, A. L. Sandu, and A. D. Murray, `"Motion during Acquisition is Associated with fMRI Brain Entropy,"`_ *IEEE Journal of Biomedical and Health Informatics*, pp. 1–1, 2019.
 
-[6] H. Sun et al., `“Regional homogeneity and functional connectivity patterns in major depressive disorder, cognitive vulnerability to depression and healthy subjects,”`_ *Journal of Affective Disorders*, vol. 235, pp. 229–235, Aug. 2018.
+[9] J. Li et al., `"ASAF: altered spontaneous activity fingerprinting in Alzheimer’s disease based on multisite fMRI,"`_ *Science Bulletin*, Apr. 2019.
 
-[5] Y. Zhang, X. Liu, K. Zhao, L. Li, and Y. Ding, `“Study of altered functional connectivity in individuals at risk for Alzheimer’s Disease.,”`_ *Technol Health Care*, vol. 26, no. S1, pp. 103–111, 2018.
+[8] N. Luo et al., `"Brain function, structure and genomic data are linked but show different sensitivity to duration of illness and disease stage in schizophrenia.,"`_ *Neuroimage Clin*, vol. 23, pp. 101887–101887, 2019.
 
+[7] R. Pang et al., `"Altered Regional Homogeneity in Chronic Insomnia Disorder with or without Cognitive Impairment,"`_ *AJNR Am J Neuroradiol*, vol. 39, no. 4, pp. 742–747, Apr. 2018.
 
-[4] S. Peeters et al., `“Reduced specialized processing in psychotic disorder: a graph theoretical analysis of cerebral functional connectivity,”`_ *Brain Behav*, vol. 6, no. 9, p. e00508, 2016.
+[6] H. Sun et al., `"Regional homogeneity and functional connectivity patterns in major depressive disorder, cognitive vulnerability to depression and healthy subjects,"`_ *Journal of Affective Disorders*, vol. 235, pp. 229–235, Aug. 2018.
 
-[3] M. Xiao et al., `“Attention Performance Measured by Attention Network Test Is Correlated with Global and Regional Efficiency of Structural Brain Networks,”`_ *Front. Behav. Neurosci.*, vol. 10, 2016.
-
-[2] S. Yang et al., `“Altered Intranetwork and Internetwork Functional Connectivity in Type 2 Diabetes Mellitus With and Without Cognitive Impairment,”`_ *Sci Rep*, vol. 6, no. 1, p. 32980, Dec. 2016.
-
-
-[1] Y. Wang et al., `“Using Regional Homogeneity to Reveal Altered Spontaneous Activity in Patients with Mild Cognitive Impairment,”`_ *BioMed Research International*, vol. 2015, pp. 1–8, 2015.
+[5] Y. Zhang, X. Liu, K. Zhao, L. Li, and Y. Ding, `"Study of altered functional connectivity in individuals at risk for Alzheimer’s Disease.,"`_ *Technol Health Care*, vol. 26, no. S1, pp. 103–111, 2018.
 
 
-.. _`“Effects of gene mutation and disease progression on representative neural circuits in familial Alzheimer's disease,”`: https://www.ncbi.nlm.nih.gov/pubmed/31937364
+[4] S. Peeters et al., `"Reduced specialized processing in psychotic disorder: a graph theoretical analysis of cerebral functional connectivity,"`_ *Brain Behav*, vol. 6, no. 9, p. e00508, 2016.
 
-.. _`“Dysfunctional Architecture Underlines White Matter Hyperintensities with and without Cognitive Impairment,”`: https://www.ncbi.nlm.nih.gov/pubmed/31403946
+[3] M. Xiao et al., `"Attention Performance Measured by Attention Network Test Is Correlated with Global and Regional Efficiency of Structural Brain Networks,"`_ *Front. Behav. Neurosci.*, vol. 10, 2016.
 
-.. _`“Regional homogeneity and functional connectivity patterns in major depressive disorder, cognitive vulnerability to depression and healthy subjects,”`: https://www.sciencedirect.com/science/article/pii/S0165032717325107
+[2] S. Yang et al., `"Altered Intranetwork and Internetwork Functional Connectivity in Type 2 Diabetes Mellitus With and Without Cognitive Impairment,"`_ *Sci Rep*, vol. 6, no. 1, p. 32980, Dec. 2016.
 
-.. _`“Attention Performance Measured by Attention Network Test Is Correlated with Global and Regional Efficiency of Structural Brain Networks,”`: https://www.frontiersin.org/articles/10.3389/fnbeh.2016.00194/full
 
-.. _`“Altered Regional Homogeneity in Chronic Insomnia Disorder with or without Cognitive Impairment,”`: http://www.ajnr.org/content/ajnr/early/2018/03/01/ajnr.A5587.full.pdf
+[1] Y. Wang et al., `"Using Regional Homogeneity to Reveal Altered Spontaneous Activity in Patients with Mild Cognitive Impairment,”`_ *BioMed Research International", vol. 2015, pp. 1–8, 2015.
 
-.. _`“Using Regional Homogeneity to Reveal Altered Spontaneous Activity in Patients with Mild Cognitive Impairment,”`: https://www.hindawi.com/journals/bmri/2015/807093/
 
-.. _`“Study of altered functional connectivity in individuals at risk for Alzheimer’s Disease.,”`: https://europepmc.org/articles/pmc6004943
+.._`"A toolbox for brain network construction and classification (BrainNetClass),"`:https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.24979
 
-.. _`“Altered Intranetwork and Internetwork Functional Connectivity in Type 2 Diabetes Mellitus With and Without Cognitive Impairment,”`: https://www.nature.com/articles/srep32980
+.. _`"In vivo anatomical mapping of human locus coeruleus functional connectivity at 3 T MRI,"`:https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.24935
 
-.. _`“Motion during Acquisition is Associated with fMRI Brain Entropy,”`: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8678816
+.. _`"A neuroimaging biomarker for striatal dysfunction in schizophrenia,"`:https://www.nature.com/articles/s41591-020-0793-8
 
-.. _`“Brain function, structure and genomic data are linked but show different sensitivity to duration of illness and disease stage in schizophrenia.,”`: https://europepmc.org/articles/pmc6558215
+.. _`"Effects of gene mutation and disease progression on representative neural circuits in familial Alzheimer's disease,"`: https://www.ncbi.nlm.nih.gov/pubmed/31937364
 
-.. _`“ASAF: altered spontaneous activity fingerprinting in Alzheimer’s disease based on multisite fMRI,”`: https://www.sciencedirect.com/science/article/pii/S2095927319302683
+.. _`"Dysfunctional Architecture Underlines White Matter Hyperintensities with and without Cognitive Impairment,"`: https://www.ncbi.nlm.nih.gov/pubmed/31403946
 
-.. _`“Reduced specialized processing in psychotic disorder: a graph theoretical analysis of cerebral functional connectivity,”`: https://www.ncbi.nlm.nih.gov/pubmed/27688938
+.. _`"Regional homogeneity and functional connectivity patterns in major depressive disorder, cognitive vulnerability to depression and healthy subjects,"`: https://www.sciencedirect.com/science/article/pii/S0165032717325107
+
+.. _`"Attention Performance Measured by Attention Network Test Is Correlated with Global and Regional Efficiency of Structural Brain Networks,"`: https://www.frontiersin.org/articles/10.3389/fnbeh.2016.00194/full
+
+.. _`"Altered Regional Homogeneity in Chronic Insomnia Disorder with or without Cognitive Impairment,"`: http://www.ajnr.org/content/ajnr/early/2018/03/01/ajnr.A5587.full.pdf
+
+.. _`"Using Regional Homogeneity to Reveal Altered Spontaneous Activity in Patients with Mild Cognitive Impairment,"`: https://www.hindawi.com/journals/bmri/2015/807093/
+
+.. _`"Study of altered functional connectivity in individuals at risk for Alzheimer’s Disease.,"`: https://europepmc.org/articles/pmc6004943
+
+.. _`"Altered Intranetwork and Internetwork Functional Connectivity in Type 2 Diabetes Mellitus With and Without Cognitive Impairment,"`: https://www.nature.com/articles/srep32980
+
+.. _`"Motion during Acquisition is Associated with fMRI Brain Entropy,"`: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8678816
+
+.. _`"Brain function, structure and genomic data are linked but show different sensitivity to duration of illness and disease stage in schizophrenia.,"`: https://europepmc.org/articles/pmc6558215
+
+.. _`"ASAF: altered spontaneous activity fingerprinting in Alzheimer’s disease based on multisite fMRI,"`: https://www.sciencedirect.com/science/article/pii/S2095927319302683
+
+.. _`"Reduced specialized processing in psychotic disorder: a graph theoretical analysis of cerebral functional connectivity,"`: https://www.ncbi.nlm.nih.gov/pubmed/27688938
