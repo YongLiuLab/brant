@@ -33,11 +33,11 @@ Publications using Brant
 [1] Y. Wang et al., `"Using Regional Homogeneity to Reveal Altered Spontaneous Activity in Patients with Mild Cognitive Impairment,”`_ *BioMed Research International", vol. 2015, pp. 1–8, 2015.
 
 
-.._`"A toolbox for brain network construction and classification (BrainNetClass),"`:https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.24979
+.. _`"A toolbox for brain network construction and classification (BrainNetClass),"`: https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.24979
 
-.. _`"In vivo anatomical mapping of human locus coeruleus functional connectivity at 3 T MRI,"`:https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.24935
+.. _`"In vivo anatomical mapping of human locus coeruleus functional connectivity at 3 T MRI,"`: https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.24935
 
-.. _`"A neuroimaging biomarker for striatal dysfunction in schizophrenia,"`:https://www.nature.com/articles/s41591-020-0793-8
+.. _`"A neuroimaging biomarker for striatal dysfunction in schizophrenia,"`: https://www.nature.com/articles/s41591-020-0793-8
 
 .. _`"Effects of gene mutation and disease progression on representative neural circuits in familial Alzheimer's disease,"`: https://www.ncbi.nlm.nih.gov/pubmed/31937364
 
