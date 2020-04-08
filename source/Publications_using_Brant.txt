@@ -30,7 +30,7 @@ Publications using Brant
 [2] S. Yang et al., `"Altered Intranetwork and Internetwork Functional Connectivity in Type 2 Diabetes Mellitus With and Without Cognitive Impairment,"`_ *Sci Rep*, vol. 6, no. 1, p. 32980, Dec. 2016.
 
 
-[1] Y. Wang et al., `"Using Regional Homogeneity to Reveal Altered Spontaneous Activity in Patients with Mild Cognitive Impairment,”`_ *BioMed Research International", vol. 2015, pp. 1–8, 2015.
+[1] Y. Wang et al., `"Using Regional Homogeneity to Reveal Altered Spontaneous Activity in Patients with Mild Cognitive Impairment,"`_ *BioMed Research International", vol. 2015, pp. 1–8, 2015.
 
 
 .. _`"A toolbox for brain network construction and classification (BrainNetClass),"`: https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.24979
