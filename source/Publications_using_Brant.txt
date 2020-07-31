@@ -1,6 +1,8 @@
 Publications using Brant
 --------------------------------------------
-[16] D. Jin et al., `"Grab-AD: Generalizability and reproducibility of altered brain activity and diagnostic classification in Alzheimer's Disease,"`_ *Human Brain Mapping*,  2020; 41:3379-3391
+[16] P. Wang et al., `"Aberrant Hippocampal Functional Connectivity Is Associated with Fornix White Matter Integrity in Alzheimer's Disease and Mild Cognitive Impairment,"`_ *J Alzheimers Dis.*,  2020; 75:1153-1168.
+
+[16] D. Jin et al., `"Grab-AD: Generalizability and reproducibility of altered brain activity and diagnostic classification in Alzheimer's Disease,"`_ *Human Brain Mapping*,  2020; 41:3379-3391.
 
 [15] Z. Zhou et al., `"A toolbox for brain network construction and classification (BrainNetClass),"`_ *Human Brain Mapping*,  hbm.24979, Mar. 2020
 
@@ -33,6 +35,8 @@ Publications using Brant
 
 
 [1] Y. Wang et al., `"Using Regional Homogeneity to Reveal Altered Spontaneous Activity in Patients with Mild Cognitive Impairment,"`_ *BioMed Research International*, vol. 2015, pp. 1–8, 2015.
+
+.. _`"Aberrant Hippocampal Functional Connectivity Is Associated with Fornix White Matter Integrity in Alzheimer's Disease and Mild Cognitive Impairment,"`: https://content.iospress.com/articles/journal-of-alzheimers-disease/jad200066
 
 .. _`"Grab-AD: Generalizability and reproducibility of altered brain activity and diagnostic classification in Alzheimer's Disease,"`: https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25023
 
