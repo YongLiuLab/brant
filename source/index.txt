@@ -10,7 +10,7 @@ To facilitate data processing and deal with above listed issues, we’ve written
 
 Functions of BRANT are arranged into 7 modules, which are preprocessing, functional connectivity (FC), spontaneous activity (SPON), complex network analysis (NET), statistics (STAT), visualization (View) and utilities. More details on proper module can be found in its own part.
 
-Please cite this work if you use the Brant. 
+**Please cite this work if you use the Brant**. 
 
 Xu, K., Liu, Y., Zhan, Y., Ren, J., Jiang, T. (2018) `BRANT: A Versatile and Extendable Resting-State fMRI Toolkit`_. Front Neuroinform, 12:52.
 
