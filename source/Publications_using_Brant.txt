@@ -1,6 +1,8 @@
 Publications using Brant
 --------------------------------------------
-[15] Z. Zhou et al., `"A toolbox for brain network construction and classification (BrainNetClass),"`_ *Human Brain Mapping*, p. hbm.24979, Mar. 2020
+[16] D. Jin et al., `"Grab-AD: Generalizability and reproducibility of altered brain activity and diagnostic classification in Alzheimer's Disease,"`_ *Human Brain Mapping*,  2020; 41:3379-3391
+
+[15] Z. Zhou et al., `"A toolbox for brain network construction and classification (BrainNetClass),"`_ *Human Brain Mapping*,  hbm.24979, Mar. 2020
 
 [14] T. Liebe, J. Kaufmann, M. Li, M. Skalej, G. Wagner, and M. Walter, `"In vivo anatomical mapping of human locus coeruleus functional connectivity at 3 T MRI,"`_ *Human Brain Mapping*, p. hbm.24935, Jan. 2020.
 
@@ -32,6 +34,7 @@ Publications using Brant
 
 [1] Y. Wang et al., `"Using Regional Homogeneity to Reveal Altered Spontaneous Activity in Patients with Mild Cognitive Impairment,"`_ *BioMed Research International*, vol. 2015, pp. 1–8, 2015.
 
+.. _`"Grab-AD: Generalizability and reproducibility of altered brain activity and diagnostic classification in Alzheimer's Disease,"`: https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25023
 
 .. _`"A toolbox for brain network construction and classification (BrainNetClass),"`: https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.24979
 
