@@ -1,6 +1,6 @@
 Publications using Brant
 --------------------------------------------
-[16] P. Wang et al., `"Aberrant Hippocampal Functional Connectivity Is Associated with Fornix White Matter Integrity in Alzheimer's Disease and Mild Cognitive Impairment,"`_ *J Alzheimers Dis.*,  2020; 75:1153-1168.
+[17] P. Wang et al., `"Aberrant Hippocampal Functional Connectivity Is Associated with Fornix White Matter Integrity in Alzheimer's Disease and Mild Cognitive Impairment,"`_ *J Alzheimers Dis.*,  2020; 75:1153-1168.
 
 [16] D. Jin et al., `"Grab-AD: Generalizability and reproducibility of altered brain activity and diagnostic classification in Alzheimer's Disease,"`_ *Human Brain Mapping*,  2020; 41:3379-3391.
 
